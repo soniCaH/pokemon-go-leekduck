@@ -7,7 +7,7 @@ Scrapes Pokemon GO events from LeekDuck and generates an iCalendar file
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
-from icalendar import Calendar, Event
+from icalendar import Calendar, Event, Alarm
 import pytz
 from typing import List, Dict, Optional
 import re
@@ -359,6 +359,32 @@ class LeekDuckScraper:
                 event.add('url', event_data['url'])
 
             event.add('uid', f"{event_data['start'].isoformat()}-{hash(event_data['title'])}@leekduck-calendar")
+
+            # Add alarms/alerts
+            # Alarm 1: 2 hours before event starts
+            alarm_before = Alarm()
+            alarm_before.add('action', 'DISPLAY')
+            alarm_before.add('description', f"Reminder: {event_data['title']} starts in 2 hours")
+            alarm_before.add('trigger', timedelta(hours=-2))
+            event.add_component(alarm_before)
+
+            # Alarm 2: 9:00 AM on the day the event ends
+            # Calculate the trigger time: 9:00 AM on end date minus the event start time
+            end_date = event_data['end']
+            morning_of_end = self.timezone.localize(datetime(
+                end_date.year, end_date.month, end_date.day, 9, 0, 0
+            ))
+            # Calculate offset from event start
+            trigger_delta = morning_of_end - event_data['start']
+
+            # Only add this alarm if it's positive (i.e., event doesn't end before 9 AM on end day)
+            # and if it's different from the first alarm
+            if trigger_delta.total_seconds() > 0 and abs(trigger_delta.total_seconds() - (-2*3600)) > 3600:
+                alarm_end = Alarm()
+                alarm_end.add('action', 'DISPLAY')
+                alarm_end.add('description', f"Reminder: {event_data['title']} ends today")
+                alarm_end.add('trigger', trigger_delta)
+                event.add_component(alarm_end)
 
             cal.add_component(event)
 
