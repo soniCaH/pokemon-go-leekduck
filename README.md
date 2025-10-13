@@ -41,8 +41,8 @@ git add .
 # Commit
 git commit -m "Initial commit: LeekDuck calendar scraper"
 
-# Add your GitHub repository as remote (replace YOUR_USERNAME)
-git remote add origin https://github.com/YOUR_USERNAME/leekduck-calendar.git
+# Add your GitHub repository as remote (replace YOUR_USERNAME and REPO_NAME)
+git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
 
 # Push to GitHub
 git push -u origin main
@@ -82,7 +82,7 @@ Or manually trigger:
 
 Once GitHub Pages is enabled and the workflow has run:
 
-1. Get your calendar URL: `https://YOUR_USERNAME.github.io/leekduck-calendar/events.ics`
+1. Get your calendar URL: `https://YOUR_USERNAME.github.io/REPO_NAME/events.ics`
 2. On **iPhone/iPad**:
    - Settings → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar
    - Enter the URL above
