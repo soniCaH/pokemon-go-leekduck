@@ -5,30 +5,11 @@ X-WR-CALDESC:Pokemon GO events from LeekDuck.com
 X-WR-CALNAME:LeekDuck Pokemon GO Events
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:📅 Cobalion\, Terrakion\, and Virizion Raid Hour
-DTSTART;TZID=Europe/Brussels:20251203T180000
-DTEND;TZID=Europe/Brussels:20251203T190000
-DTSTAMP:20251204T061939Z
-UID:2025-12-03T18:00:00+01:00--1736278560511509783@leekduck-calendar
-DESCRIPTION:A Raid Hour featuring Cobalion\, Terrakion\, and Virizion is s
- cheduled from 6 to 7 pm Local Time. During this hour there will be an incr
- eased number of 5-star Raids.\n\nMore info: https://leekduck.com/events/ra
- idhour20251203/\n\nData from LeekDuck.com
-LOCATION:Pokemon GO
-URL:https://leekduck.com/events/raidhour20251203/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 📅 Cobalion\, Terrakion\, and Virizion Raid Hour 
- starts in 2 hours
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚔️ Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20251125T100000
 DTEND;TZID=Europe/Brussels:20251204T100000
-DTSTAMP:20251204T061939Z
-UID:2025-11-25T10:00:00+01:00-2105913469864970180@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-11-25T10:00:00+01:00--6293696177389661272@leekduck-calendar
 DESCRIPTION:Cobalion\, Terrakion\, and Virizion will be in five-star raid 
  battles from November 25\, 2025 to December 4\, 2025.\n\nThere will also b
  e a Raid Hour featuring Cobalion\, Terrakion\, and Virizion from 6:00 pm t
@@ -56,8 +37,8 @@ SUMMARY:📅 Mega Aerodactyl\, Mega Medicham\, and Mega Garchomp in Mega 
  Raids
 DTSTART;TZID=Europe/Brussels:20251125T100000
 DTEND;TZID=Europe/Brussels:20251204T100000
-DTSTAMP:20251204T061939Z
-UID:2025-11-25T10:00:00+01:00--1616820220462042697@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-11-25T10:00:00+01:00-1741619508157853321@leekduck-calendar
 DESCRIPTION:Mega Aerodactyl\, Mega Medicham\, and Mega Garchomp return to 
  Mega Raids on November 25\, 2025\, at 10 am local time.\n\nMore info: http
  s://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-raids-no
@@ -82,8 +63,8 @@ BEGIN:VEVENT
 SUMMARY:👥 December Community Day 2025
 DTSTART;TZID=Europe/Brussels:20251206T140000
 DTEND;TZID=Europe/Brussels:20251207T170000
-DTSTAMP:20251204T061939Z
-UID:2025-12-06T14:00:00+01:00--8348306732849712055@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-06T14:00:00+01:00-7918816514459073283@leekduck-calendar
 DESCRIPTION:Pokémon from Community Days in 2025 return for an end of the 
  year celebration!\n\nThe year is nearly behind us\, which means it’s tim
  e to reflect on all the fun everyone had during this year’s Community Da
@@ -110,8 +91,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Cryogonal during Max Monday
 DTSTART;TZID=Europe/Brussels:20251208T180000
 DTEND;TZID=Europe/Brussels:20251208T190000
-DTSTAMP:20251204T061939Z
-UID:2025-12-08T18:00:00+01:00-8825823611180730909@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-08T18:00:00+01:00-8200521619662991658@leekduck-calendar
 DESCRIPTION:These Dynamax Pokémon may appear in Max Battles throughout Pr
  ecious Paths. They will also take over Power Spots for an hour each week o
  n Mondays from 6:00 p.m. to 7:00 p.m. local time!\n\nOnDecember 8\, 2025\,
@@ -130,8 +111,8 @@ BEGIN:VEVENT
 SUMMARY:🥊 GO Battle Week: Precious Paths
 DTSTART;TZID=Europe/Brussels:20251204T000000
 DTEND;TZID=Europe/Brussels:20251208T235900
-DTSTAMP:20251204T061939Z
-UID:2025-12-04T00:00:00+01:00--6840162870099023936@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-04T00:00:00+01:00--9213446982136612613@leekduck-calendar
 DESCRIPTION:Event-exclusive Timed Research\n\nFree battle-themed Timed Res
  earch will be available. Rewards include shoes for your avatar inspired by
   Grusha.\n\nHey\, I'm LeekDuck. I create Pokémon GO graphics\, resources 
@@ -157,8 +138,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Shieldon Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20251209T180000
 DTEND;TZID=Europe/Brussels:20251209T190000
-DTSTAMP:20251204T061939Z
-UID:2025-12-09T18:00:00+01:00--6495712155261563104@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-09T18:00:00+01:00-7996609616474644208@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time on Tuesday during the m
  onth of December.\n\nDecember 9: The featured Pokémon isShieldonand the s
@@ -176,8 +157,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Journey to Paldea
 DTSTART;TZID=Europe/Brussels:20251202T100000
 DTEND;TZID=Europe/Brussels:20251209T200000
-DTSTAMP:20251204T061939Z
-UID:2025-12-02T10:00:00+01:00-1979829107783391216@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-02T10:00:00+01:00--2502305384420904774@leekduck-calendar
 DESCRIPTION:Journey to Paldea! Discover Nacli\, Naclstack\, and Garganacl 
  making their Pokémon GO debuts!\n\nMore info: https://leekduck.com/events
  /journey-to-paldea/\n\nData from LeekDuck.com
@@ -198,8 +179,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Kyurem Raid Hour
 DTSTART;TZID=Europe/Brussels:20251210T180000
 DTEND;TZID=Europe/Brussels:20251210T190000
-DTSTAMP:20251204T061939Z
-UID:2025-12-10T18:00:00+01:00--1945186686327752139@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-10T18:00:00+01:00-4208206683791528513@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Kyurem is scheduled from 6 to 7 pm Local
   Time. During this hour there will be an increased number of 5-star Raids.
  \n\nMore info: https://leekduck.com/events/raidhour20251210/\n\nData from 
@@ -216,8 +197,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Kyurem in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20251204T100000
 DTEND;TZID=Europe/Brussels:20251213T100000
-DTSTAMP:20251204T061939Z
-UID:2025-12-04T10:00:00+01:00-7739625003498594812@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-04T10:00:00+01:00-233383255940127571@leekduck-calendar
 DESCRIPTION:Kyurem will be in five-star raid battles from December 4\, 202
  5 to December 13\, 2025.\n\nThere will also be a Raid Hour featuring Kyure
  m from 6:00 pm to 7:00 pm local time on the following dates:\n\nMore info:
@@ -242,8 +223,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Gyarados in Mega Raids
 DTSTART;TZID=Europe/Brussels:20251204T100000
 DTEND;TZID=Europe/Brussels:20251213T100000
-DTSTAMP:20251204T061939Z
-UID:2025-12-04T10:00:00+01:00-5879644149436988919@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-04T10:00:00+01:00-1407776254820979283@leekduck-calendar
 DESCRIPTION:Mega Gyarados return to Mega Raids on December 4\, 2025\, at 1
  0 am local time.\n\nMore info: https://leekduck.com/events/mega-gyarados-i
  n-mega-raids-december-2025/\n\nData from LeekDuck.com
@@ -264,8 +245,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Gigantamax Snorlax Max Battle Day
 DTSTART;TZID=Europe/Brussels:20251214T140000
 DTEND;TZID=Europe/Brussels:20251214T170000
-DTSTAMP:20251204T061939Z
-UID:2025-12-14T14:00:00+01:00--2808437217034370483@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-14T14:00:00+01:00-4666445221165672883@leekduck-calendar
 DESCRIPTION:Gigantamax Snorlax returns for an end-of-year Max Battle Day!\
  n\nMore info: https://leekduck.com/events/gigantamax-snorlax-max-battle-da
  y-december-2025/\n\nData from LeekDuck.com
@@ -283,8 +264,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Kabuto during Max Monday
 DTSTART;TZID=Europe/Brussels:20251215T180000
 DTEND;TZID=Europe/Brussels:20251215T190000
-DTSTAMP:20251204T061939Z
-UID:2025-12-15T18:00:00+01:00-3002866904225312468@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-15T18:00:00+01:00-1526324636203595379@leekduck-calendar
 DESCRIPTION:These Dynamax Pokémon may appear in Max Battles throughout Pr
  ecious Paths. They will also take over Power Spots for an hour each week o
  n Mondays from 6:00 p.m. to 7:00 p.m. local time!\n\nOnDecember 15\, 2025\
@@ -303,8 +284,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mienfoo Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20251216T180000
 DTEND;TZID=Europe/Brussels:20251216T190000
-DTSTAMP:20251204T061939Z
-UID:2025-12-16T18:00:00+01:00--6867584142313993171@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-16T18:00:00+01:00-3344027415452078720@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time on Tuesday during the m
  onth of December.\n\nDecember 16: The featured Pokémon isMienfooand the s
@@ -322,8 +303,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Well Armed
 DTSTART;TZID=Europe/Brussels:20251211T100000
 DTEND;TZID=Europe/Brussels:20251216T200000
-DTSTAMP:20251204T061939Z
-UID:2025-12-11T10:00:00+01:00--1495436944294143342@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-11T10:00:00+01:00-7729093568499383421@leekduck-calendar
 DESCRIPTION:Train and take on Global Challenges during the Well Armed even
  t!\n\nMore info: https://leekduck.com/events/well-armed-2025/\n\nData from
   LeekDuck.com
@@ -344,8 +325,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Reshiram Raid Hour
 DTSTART;TZID=Europe/Brussels:20251217T180000
 DTEND;TZID=Europe/Brussels:20251217T190000
-DTSTAMP:20251204T061939Z
-UID:2025-12-17T18:00:00+01:00--3620456560735557843@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-17T18:00:00+01:00-1617710292276330098@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Reshiram is scheduled from 6 to 7 pm Loc
  al Time. During this hour there will be an increased number of 5-star Raid
  s.\n\nMore info: https://leekduck.com/events/raidhour20251217/\n\nData fro
@@ -362,8 +343,8 @@ BEGIN:VEVENT
 SUMMARY:🔍 Research Day
 DTSTART;TZID=Europe/Brussels:20251220T140000
 DTEND;TZID=Europe/Brussels:20251220T170000
-DTSTAMP:20251204T061939Z
-UID:2025-12-20T14:00:00+01:00-477338087292873205@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-20T14:00:00+01:00--3194024693424825140@leekduck-calendar
 DESCRIPTION:The Research Day event will take place on December 20\, 2025 f
  rom 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekd
  uck.com/events/research-day-december-2025/\n\nData from LeekDuck.com
@@ -379,8 +360,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Abomasnow in Mega Raids
 DTSTART;TZID=Europe/Brussels:20251213T100000
 DTEND;TZID=Europe/Brussels:20251222T100000
-DTSTAMP:20251204T061939Z
-UID:2025-12-13T10:00:00+01:00-3753536997659190103@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-13T10:00:00+01:00--2136965432538537297@leekduck-calendar
 DESCRIPTION:Mega Abomasnow return to Mega Raids on December 13\, 2025\, at
   10 am local time.\n\nMore info: https://leekduck.com/events/mega-abomasno
  w-in-mega-raids-december-2025/\n\nData from LeekDuck.com
@@ -402,8 +383,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Reshiram in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20251213T100000
 DTEND;TZID=Europe/Brussels:20251222T100000
-DTSTAMP:20251204T061939Z
-UID:2025-12-13T10:00:00+01:00--8120680936227867335@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-13T10:00:00+01:00--3929354661022393483@leekduck-calendar
 DESCRIPTION:Reshiram will be in five-star raid battles from December 13\, 
  2025 to December 22\, 2025.\n\nThere will also be a Raid Hour featuring Re
  shiram from 6:00 pm to 7:00 pm local time on the following dates:\n\nMore 
@@ -428,8 +409,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Spheal during Max Monday
 DTSTART;TZID=Europe/Brussels:20251222T180000
 DTEND;TZID=Europe/Brussels:20251222T190000
-DTSTAMP:20251204T061939Z
-UID:2025-12-22T18:00:00+01:00--3136606286425783659@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-22T18:00:00+01:00-7097440103728523703@leekduck-calendar
 DESCRIPTION:These Dynamax Pokémon may appear in Max Battles throughout Pr
  ecious Paths. They will also take over Power Spots for an hour each week o
  n Mondays from 6:00 p.m. to 7:00 p.m. local time!\n\nOnDecember 22\, 2025\
@@ -448,8 +429,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Spheal Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20251223T180000
 DTEND;TZID=Europe/Brussels:20251223T190000
-DTSTAMP:20251204T061939Z
-UID:2025-12-23T18:00:00+01:00-1450127287648872913@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-23T18:00:00+01:00--3600560910907304662@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time on Tuesday during the m
  onth of December.\n\nDecember 23: The featured Pokémon isSphealand the sp
@@ -467,8 +448,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Zekrom Raid Hour
 DTSTART;TZID=Europe/Brussels:20251224T180000
 DTEND;TZID=Europe/Brussels:20251224T190000
-DTSTAMP:20251204T061939Z
-UID:2025-12-24T18:00:00+01:00--4919214665184608329@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-24T18:00:00+01:00-4219475784548339454@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Zekrom is scheduled from 6 to 7 pm Local
   Time. During this hour there will be an increased number of 5-star Raids.
  \n\nMore info: https://leekduck.com/events/raidhour20251224/\n\nData from 
@@ -485,8 +466,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Winter Holiday Part 1
 DTSTART;TZID=Europe/Brussels:20251218T100000
 DTEND;TZID=Europe/Brussels:20251224T200000
-DTSTAMP:20251204T061939Z
-UID:2025-12-18T10:00:00+01:00--696253036699904358@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-18T10:00:00+01:00--1791879764106017381@leekduck-calendar
 DESCRIPTION:The Winter Holiday Part 1 event will take place from December 
  18\, 2025 at 10 am to December 24\, 2025 at 8 pm. Stay tuned for more deta
  ils.\n\nMore info: https://leekduck.com/events/winter-holiday-part-1-2025/
@@ -508,8 +489,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Winter Weekend
 DTSTART;TZID=Europe/Brussels:20251227T100000
 DTEND;TZID=Europe/Brussels:20251228T200000
-DTSTAMP:20251204T061939Z
-UID:2025-12-27T10:00:00+01:00-6305927687179982165@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-27T10:00:00+01:00-7115544734076072305@leekduck-calendar
 DESCRIPTION:The Winter Weekend event will take place from December 27\, 20
  25 at 10 am to December 28\, 2025 at 8 pm. Stay tuned for more details.\n\
  nMore info: https://leekduck.com/events/winter-weekend-2025/\n\nData from 
@@ -531,8 +512,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Omanyte during Max Monday
 DTSTART;TZID=Europe/Brussels:20251229T180000
 DTEND;TZID=Europe/Brussels:20251229T190000
-DTSTAMP:20251204T061939Z
-UID:2025-12-29T18:00:00+01:00--5028158719475398167@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-29T18:00:00+01:00-1925806949103943291@leekduck-calendar
 DESCRIPTION:These Dynamax Pokémon may appear in Max Battles throughout Pr
  ecious Paths. They will also take over Power Spots for an hour each week o
  n Mondays from 6:00 p.m. to 7:00 p.m. local time!\n\nOnDecember 29\, 2025\
@@ -551,8 +532,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Winter Holiday Part 2
 DTSTART;TZID=Europe/Brussels:20251224T100000
 DTEND;TZID=Europe/Brussels:20251229T200000
-DTSTAMP:20251204T061939Z
-UID:2025-12-24T10:00:00+01:00-330992807547625284@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-24T10:00:00+01:00--1207791597832555617@leekduck-calendar
 DESCRIPTION:The Winter Holiday Part 2 event will take place from December 
  24\, 2025 at 10 am to December 29\, 2025 at 8 pm. Stay tuned for more deta
  ils.\n\nMore info: https://leekduck.com/events/winter-holiday-part-2-2025/
@@ -574,8 +555,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Delibird Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20251230T180000
 DTEND;TZID=Europe/Brussels:20251230T190000
-DTSTAMP:20251204T061939Z
-UID:2025-12-30T18:00:00+01:00--7845196796806673793@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-30T18:00:00+01:00-7473334813688748258@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time on Tuesday during the m
  onth of December.\n\nDecember 30: The featured Pokémon isDelibirdand the 
@@ -593,8 +574,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Glalie in Mega Raids
 DTSTART;TZID=Europe/Brussels:20251222T100000
 DTEND;TZID=Europe/Brussels:20251231T100000
-DTSTAMP:20251204T061939Z
-UID:2025-12-22T10:00:00+01:00--6258422104201793529@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-22T10:00:00+01:00--2914168169753916683@leekduck-calendar
 DESCRIPTION:Mega Glalie return to Mega Raids on December 22\, 2025\, at 10
   am local time.\n\nMore info: https://leekduck.com/events/mega-glalie-in-m
  ega-raids-december-2025/\n\nData from LeekDuck.com
@@ -615,8 +596,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Zekrom in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20251222T100000
 DTEND;TZID=Europe/Brussels:20251231T100000
-DTSTAMP:20251204T061939Z
-UID:2025-12-22T10:00:00+01:00--3556407065519238150@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-22T10:00:00+01:00-7056065418178267177@leekduck-calendar
 DESCRIPTION:Zekrom will be in five-star raid battles from December 22\, 20
  25 to December 31\, 2025.\n\nThere will also be a Raid Hour featuring Zekr
  om from 6:00 pm to 7:00 pm local time on the following dates:\n\nMore info
@@ -641,8 +622,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Blacephalon Raid Hour
 DTSTART;TZID=Europe/Brussels:20251231T180000
 DTEND;TZID=Europe/Brussels:20251231T190000
-DTSTAMP:20251204T061939Z
-UID:2025-12-31T18:00:00+01:00--3971365751373143900@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-31T18:00:00+01:00-2154118894232522509@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Blacephalon is scheduled from 6 to 7 pm 
  Local Time. During this hour there will be an increased number of 5-star R
  aids.\n\nMore info: https://leekduck.com/events/raidhour20251231/\n\nData 
@@ -659,8 +640,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Shadow Heatran in Shadow Raids
 DTSTART;TZID=Europe/Brussels:20251202T060000
 DTEND;TZID=Europe/Brussels:20260101T220000
-DTSTAMP:20251204T061939Z
-UID:2025-12-02T06:00:00+01:00--6455597896615388839@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-02T06:00:00+01:00--3947648829222215900@leekduck-calendar
 DESCRIPTION:Shadow Heatran will appear in Pokémon GO in Shadow Raids. If 
  you’re lucky you’ll be able to encounter Shiny Shadow Heatran!\n\nShad
  ow Heatran will appear in five-star Shadow Raids every weekend from Decemb
@@ -685,8 +666,8 @@ BEGIN:VEVENT
 SUMMARY:👥 January Community Day Classic
 DTSTART;TZID=Europe/Brussels:20260104T140000
 DTEND;TZID=Europe/Brussels:20260104T170000
-DTSTAMP:20251204T061939Z
-UID:2026-01-04T14:00:00+01:00--1586553630087916767@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2026-01-04T14:00:00+01:00--4932823141513647804@leekduck-calendar
 DESCRIPTION:January Community Day Classic is on January 4\, 2026. Stay tun
  ed for the announcement of the featured Pokémon.\n\nMore info: https://le
  ekduck.com/events/january-communitydayclassic2026/\n\nData from LeekDuck.c
@@ -704,8 +685,8 @@ BEGIN:VEVENT
 SUMMARY:📅 New Year's 2026
 DTSTART;TZID=Europe/Brussels:20251231T100000
 DTEND;TZID=Europe/Brussels:20260104T200000
-DTSTAMP:20251204T061939Z
-UID:2025-12-31T10:00:00+01:00--2658710915792506000@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-31T10:00:00+01:00--5002279996048468082@leekduck-calendar
 DESCRIPTION:The New Year’s 2026 event will take place from December 31\,
   2025 at 10 am to January 4\, 2026 at 8 pm. Stay tuned for more details.\n
  \nMore info: https://leekduck.com/events/new-years-2026/\n\nData from Leek
@@ -727,8 +708,8 @@ BEGIN:VEVENT
 SUMMARY:🎫 GO Pass: December
 DTSTART;TZID=Europe/Brussels:20251202T100000
 DTEND;TZID=Europe/Brussels:20260106T100000
-DTSTAMP:20251204T061939Z
-UID:2025-12-02T10:00:00+01:00--2949971260093421248@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-02T10:00:00+01:00-1037023886758689988@leekduck-calendar
 DESCRIPTION:Palkia and the Timed Incubator return for GO Pass: December!\n
  \nFrom Tuesday\, December 2\, 2025\, at 10:00 a.m. to Tuesday\, January 6\
  , 2026\, at 10:00 a.m. local time\, the GO Pass and GO Pass Deluxe for Dec
@@ -751,8 +732,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Raid Day
 DTSTART;TZID=Europe/Brussels:20260110T140000
 DTEND;TZID=Europe/Brussels:20260110T170000
-DTSTAMP:20251204T061939Z
-UID:2026-01-10T14:00:00+01:00-6790235384011693345@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2026-01-10T14:00:00+01:00--8314783517681878493@leekduck-calendar
 DESCRIPTION:The Raid Day event will take place on January 10\, 2026 from 2
   pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck.c
  om/events/raid-day-january-2026/\n\nData from LeekDuck.com
@@ -768,8 +749,8 @@ BEGIN:VEVENT
 SUMMARY:📅 January Community Day
 DTSTART;TZID=Europe/Brussels:20260118T140000
 DTEND;TZID=Europe/Brussels:20260118T170000
-DTSTAMP:20251204T061939Z
-UID:2026-01-18T14:00:00+01:00--1751036477790726361@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2026-01-18T14:00:00+01:00-7869813146392390124@leekduck-calendar
 DESCRIPTION:January Community Day is on January 18\, 2026. Stay tuned for 
  the announcement of the featured Pokémon.\n\nMore info: https://leekduck.
  com/events/january-communityday2026/\n\nData from LeekDuck.com
@@ -785,8 +766,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Shadow Raid Day
 DTSTART;TZID=Europe/Brussels:20260124T140000
 DTEND;TZID=Europe/Brussels:20260124T170000
-DTSTAMP:20251204T061939Z
-UID:2026-01-24T14:00:00+01:00--637013176574237985@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2026-01-24T14:00:00+01:00--817816800029210867@leekduck-calendar
 DESCRIPTION:The Shadow Raid Day event will take place on January 24\, 2026
   from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://lee
  kduck.com/events/shadow-raid-day-january-2026/\n\nData from LeekDuck.com
@@ -802,8 +783,8 @@ BEGIN:VEVENT
 SUMMARY:📅 February Community Day
 DTSTART;TZID=Europe/Brussels:20260201T140000
 DTEND;TZID=Europe/Brussels:20260201T170000
-DTSTAMP:20251204T061939Z
-UID:2026-02-01T14:00:00+01:00--6521624669967044131@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2026-02-01T14:00:00+01:00-702376034926500981@leekduck-calendar
 DESCRIPTION:February Community Day is on February 1\, 2026. Stay tuned for
   the announcement of the featured Pokémon.\n\nMore info: https://leekduck
  .com/events/february-communityday2026/\n\nData from LeekDuck.com
@@ -819,8 +800,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Max Battle Weekend
 DTSTART;TZID=Europe/Brussels:20260131T060000
 DTEND;TZID=Europe/Brussels:20260201T210000
-DTSTAMP:20251204T061939Z
-UID:2026-01-31T06:00:00+01:00--443796046150492510@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2026-01-31T06:00:00+01:00-6979058148450166273@leekduck-calendar
 DESCRIPTION:The Max Battle Weekend event will take place from January 31\,
   2026 at 6 am to February 1\, 2026 at 9 pm. Stay tuned for more details.\n
  \nMore info: https://leekduck.com/events/max-battle-weekend-february-2026/
@@ -842,8 +823,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Catch Mastery Day
 DTSTART;TZID=Europe/Brussels:20260207T100000
 DTEND;TZID=Europe/Brussels:20260207T200000
-DTSTAMP:20251204T061939Z
-UID:2026-02-07T10:00:00+01:00--8931945398060919361@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2026-02-07T10:00:00+01:00-3834682355505269007@leekduck-calendar
 DESCRIPTION:The Catch Mastery Day event will take place on February 7\, 20
  26 from 10 am to 8 pm. Stay tuned for more details.\n\nMore info: https://
  leekduck.com/events/catch-mastery-day-february-2026/\n\nData from LeekDuck
@@ -860,8 +841,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Raid Day
 DTSTART;TZID=Europe/Brussels:20260214T140000
 DTEND;TZID=Europe/Brussels:20260214T170000
-DTSTAMP:20251204T061939Z
-UID:2026-02-14T14:00:00+01:00-6790235384011693345@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2026-02-14T14:00:00+01:00--8314783517681878493@leekduck-calendar
 DESCRIPTION:The Raid Day event will take place on February 14\, 2026 from 
  2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck.
  com/events/raid-day-february-2026/\n\nData from LeekDuck.com
@@ -877,8 +858,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Max Battle Day
 DTSTART;TZID=Europe/Brussels:20260215T140000
 DTEND;TZID=Europe/Brussels:20260215T170000
-DTSTAMP:20251204T061939Z
-UID:2026-02-15T14:00:00+01:00--5981394663247380423@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2026-02-15T14:00:00+01:00--7598265214364918770@leekduck-calendar
 DESCRIPTION:The Max Battle Day event will take place on February 15\, 2026
   from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://lee
  kduck.com/events/max-battle-day-february-2026/\n\nData from LeekDuck.com
@@ -894,8 +875,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Pokémon GO Tour: Kalos - Global 2026
 DTSTART;TZID=Europe/Brussels:20260228T100000
 DTEND;TZID=Europe/Brussels:20260301T180000
-DTSTAMP:20251204T061939Z
-UID:2026-02-28T10:00:00+01:00-6902486801783118521@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2026-02-28T10:00:00+01:00--310243572449890869@leekduck-calendar
 DESCRIPTION:Other Event Locations:\n\nBuy tickets:Pokémon GO Web Store\n\
  nJoin millions of Trainers across the globe for Pokémon GO Tour: Kalos 
  – Global! Take part in this worldwide event inspired by the Kalos region
@@ -927,8 +908,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Precious Paths
 DTSTART;TZID=Europe/Brussels:20251202T100000
 DTEND;TZID=Europe/Brussels:20260303T100000
-DTSTAMP:20251204T061939Z
-UID:2025-12-02T10:00:00+01:00-550797876778320714@leekduck-calendar
+DTSTAMP:20251205T061934Z
+UID:2025-12-02T10:00:00+01:00--8059789794713091680@leekduck-calendar
 DESCRIPTION:Welcome to the next Pokémon GO Season: Precious Paths!\n\nMor
  e info: https://leekduck.com/events/season-21-precious-paths/\n\nData from
   LeekDuck.com
