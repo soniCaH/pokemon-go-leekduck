@@ -5,38 +5,12 @@ X-WR-CALDESC:Pokemon GO events from LeekDuck.com
 X-WR-CALNAME:LeekDuck Pokemon GO Events
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:⚔️ Zekrom in 5-star Raid Battles
-DTSTART;TZID=Europe/Brussels:20251222T100000
-DTEND;TZID=Europe/Brussels:20251231T100000
-DTSTAMP:20251231T062045Z
-UID:2025-12-22T10:00:00+01:00-1621711200953671476@leekduck-calendar
-DESCRIPTION:Zekrom will be in five-star raid battles from December 22\, 20
- 25 to December 31\, 2025.\n\nThere will also be a Raid Hour featuring Zekr
- om from 6:00 pm to 7:00 pm local time on the following dates:\n\nMore info
- : https://leekduck.com/events/zekrom-in-5-star-raid-battles-december-2025/
- \n\nData from LeekDuck.com
-LOCATION:Pokemon GO
-URL:https://leekduck.com/events/zekrom-in-5-star-raid-battles-december-202
- 5/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: ⚔️ Zekrom in 5-star Raid Battles starts in 2 ho
- urs
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: ⚔️ Zekrom in 5-star Raid Battles ends today
-TRIGGER:P8DT23H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚔️ Genesect (Burn Drive)\, Genesect (Chill Drive) in 5-star Ra
  id Battles
 DTSTART;TZID=Europe/Brussels:20260105T100000
 DTEND;TZID=Europe/Brussels:20260116T100000
-DTSTAMP:20251231T062045Z
-UID:2026-01-05T10:00:00+01:00-8273040654395169243@leekduck-calendar
+DTSTAMP:20260101T062106Z
+UID:2026-01-05T10:00:00+01:00--6466877613922959822@leekduck-calendar
 DESCRIPTION:Genesect (Burn Drive) and Genesect (Chill Drive) will be in fi
  ve-star raid battles from January 5\, 2026 to January 16\, 2026.\n\nThere 
  will also be Raid Hours featuring Genesect (Burn Drive) and Genesect (Chil
@@ -63,8 +37,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Thundurus (Incarnate Forme) in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20260116T100000
 DTEND;TZID=Europe/Brussels:20260125T100000
-DTSTAMP:20251231T062045Z
-UID:2026-01-16T10:00:00+01:00--6689754827378819901@leekduck-calendar
+DTSTAMP:20260101T062106Z
+UID:2026-01-16T10:00:00+01:00-7872551766420031226@leekduck-calendar
 DESCRIPTION:Thundurus (Incarnate Forme) will be in five-star raid battles 
  from January 16\, 2026 to January 25\, 2026.\n\nThere will also be a Raid 
  Hour featuring Thundurus (Incarnate Forme) from 6:00 pm to 7:00 pm local t
@@ -91,8 +65,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Tornadus (Incarnate Forme) in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20260125T100000
 DTEND;TZID=Europe/Brussels:20260204T100000
-DTSTAMP:20251231T062045Z
-UID:2026-01-25T10:00:00+01:00--582545170680960754@leekduck-calendar
+DTSTAMP:20260101T062106Z
+UID:2026-01-25T10:00:00+01:00--2348744873983660378@leekduck-calendar
 DESCRIPTION:Tornadus (Incarnate Forme) will be in five-star raid battles f
  rom January 25\, 2026 to February 4\, 2026.\n\nThere will also be a Raid H
  our featuring Tornadus (Incarnate Forme) from 6:00 pm to 7:00 pm local tim
