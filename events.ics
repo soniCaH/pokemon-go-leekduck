@@ -5,31 +5,11 @@ X-WR-CALDESC:Pokemon GO events from LeekDuck.com
 X-WR-CALNAME:LeekDuck Pokemon GO Events
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:⭐ Dynamax Beldum during Max Monday
-DTSTART;TZID=Europe/Brussels:20260119T180000
-DTEND;TZID=Europe/Brussels:20260119T190000
-DTSTAMP:20260120T062246Z
-UID:2026-01-19T18:00:00+01:00-5767282148497016803@leekduck-calendar
-DESCRIPTION:These Dynamax Pokémon may appear in Max Battles throughout Ta
- les of Transformation. They will also take over Power Spots for an hour ea
- ch week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\n\nOnJanuary 19
- \, 2026\, the featured Dynamax Pokémon isBeldum.\n\nMore info: https://le
- ekduck.com/events/max-mondays-2026-01-19/\n\nData from LeekDuck.com
-LOCATION:Pokemon GO
-URL:https://leekduck.com/events/max-mondays-2026-01-19/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: ⭐ Dynamax Beldum during Max Monday starts in 2 ho
- urs
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📅 Hatenna Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20260120T180000
 DTEND;TZID=Europe/Brussels:20260120T190000
-DTSTAMP:20260120T062246Z
-UID:2026-01-20T18:00:00+01:00-2526077954166760211@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-20T18:00:00+01:00--766924688890469001@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time on Tuesday during the m
  onth of January.\n\nJanuary 20: The featured Pokémon isHatennaand the spe
@@ -47,8 +27,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Thundurus (Incarnate Forme) Raid Hour
 DTSTART;TZID=Europe/Brussels:20260121T180000
 DTEND;TZID=Europe/Brussels:20260121T190000
-DTSTAMP:20260120T062246Z
-UID:2026-01-21T18:00:00+01:00-5085665939028130969@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-21T18:00:00+01:00-4455628088006709607@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Thundurus (Incarnate Forme) is scheduled
   from 6 to 7 pm Local Time. During this hour there will be an increased nu
  mber of 5-star Raids.\n\nMore info: https://leekduck.com/events/raidhour20
@@ -66,8 +46,8 @@ BEGIN:VEVENT
 SUMMARY:📸 Fidough and Dachsbun PokéStop Showcases
 DTSTART;TZID=Europe/Brussels:20260119T100000
 DTEND;TZID=Europe/Brussels:20260121T200000
-DTSTAMP:20260120T062246Z
-UID:2026-01-19T10:00:00+01:00--2598664909066065804@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-19T10:00:00+01:00-8543936039372784723@leekduck-calendar
 DESCRIPTION:There will be PokéStop Showcases featuring Fidough and Dachsb
  un. Top the leaderboard to win rewards including Premium Items!\n\nMore in
  fo: https://leekduck.com/events/pokemon-showcase-fidough-dachsbun/\n\nData
@@ -91,8 +71,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Shadow Raikou Raid Day
 DTSTART;TZID=Europe/Brussels:20260124T140000
 DTEND;TZID=Europe/Brussels:20260124T170000
-DTSTAMP:20260120T062246Z
-UID:2026-01-24T14:00:00+01:00--7923557274249982602@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-24T14:00:00+01:00-7994798615444345658@leekduck-calendar
 DESCRIPTION:Unite with fellow Trainers to rescue Shadow Raikou from Team G
  O Rocket during a Shadow Raid Day event!\n\nMore info: https://leekduck.co
  m/events/shadow-raikou-raid-day-january-2026/\n\nData from LeekDuck.com
@@ -108,8 +88,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Sceptile in Mega Raids
 DTSTART;TZID=Europe/Brussels:20260116T100000
 DTEND;TZID=Europe/Brussels:20260125T100000
-DTSTAMP:20260120T062246Z
-UID:2026-01-16T10:00:00+01:00-3029891066309273948@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-16T10:00:00+01:00-7675784891084077149@leekduck-calendar
 DESCRIPTION:Mega Sceptile return to Mega Raids on January 16\, 2026\, at 1
  0 am local time.\n\nMore info: https://leekduck.com/events/mega-sceptile-i
  n-mega-raids-january-2026/\n\nData from LeekDuck.com
@@ -130,8 +110,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Thundurus (Incarnate Forme) in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20260116T100000
 DTEND;TZID=Europe/Brussels:20260125T100000
-DTSTAMP:20260120T062246Z
-UID:2026-01-16T10:00:00+01:00--6401245269510062387@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-16T10:00:00+01:00--6394527940133898694@leekduck-calendar
 DESCRIPTION:Thundurus (Incarnate Forme) will be in five-star raid battles 
  from January 16\, 2026 to January 25\, 2026.\n\nThere will also be a Raid 
  Hour featuring Thundurus (Incarnate Forme) from 6:00 pm to 7:00 pm local t
@@ -158,8 +138,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Precious Pals: Taken Over
 DTSTART;TZID=Europe/Brussels:20260123T000000
 DTEND;TZID=Europe/Brussels:20260125T200000
-DTSTAMP:20260120T062246Z
-UID:2026-01-23T00:00:00+01:00-761557218977060927@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-23T00:00:00+01:00--5920138223010645831@leekduck-calendar
 DESCRIPTION:Rescue Shadow Incarnate Forme Thundurus during Precious Pals: 
  Taken Over!\n\nMore info: https://leekduck.com/events/precious-pals-taken-
  over-2026/\n\nData from LeekDuck.com
@@ -180,8 +160,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Precious Pals
 DTSTART;TZID=Europe/Brussels:20260120T100000
 DTEND;TZID=Europe/Brussels:20260125T200000
-DTSTAMP:20260120T062246Z
-UID:2026-01-20T10:00:00+01:00-2002136062468385494@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-20T10:00:00+01:00--2718018627105846780@leekduck-calendar
 DESCRIPTION:Make memories with your Buddy Pokémon during the Precious Pal
  s event!\n\nMore info: https://leekduck.com/events/precious-pals-2026/\n\n
  Data from LeekDuck.com
@@ -202,8 +182,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Roggenrola during Max Monday
 DTSTART;TZID=Europe/Brussels:20260126T180000
 DTEND;TZID=Europe/Brussels:20260126T190000
-DTSTAMP:20260120T062246Z
-UID:2026-01-26T18:00:00+01:00-9001947645451964888@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-26T18:00:00+01:00-8476015764159058971@leekduck-calendar
 DESCRIPTION:These Dynamax Pokémon may appear in Max Battles throughout Ta
  les of Transformation. They will also take over Power Spots for an hour ea
  ch week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\n\nOnJanuary 26
@@ -222,8 +202,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Foongus Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20260127T180000
 DTEND;TZID=Europe/Brussels:20260127T190000
-DTSTAMP:20260120T062246Z
-UID:2026-01-27T18:00:00+01:00--3055154216092403049@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-27T18:00:00+01:00-5898650452382613470@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time on Tuesday during the m
  onth of January.\n\nJanuary 27: The featured Pokémon isFoongusand the spe
@@ -241,8 +221,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Tornadus (Incarnate Forme) Raid Hour
 DTSTART;TZID=Europe/Brussels:20260128T180000
 DTEND;TZID=Europe/Brussels:20260128T190000
-DTSTAMP:20260120T062246Z
-UID:2026-01-28T18:00:00+01:00--3151401423008680412@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-28T18:00:00+01:00-9176750640140975293@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Tornadus (Incarnate Forme) is scheduled 
  from 6 to 7 pm Local Time. During this hour there will be an increased num
  ber of 5-star Raids.\n\nMore info: https://leekduck.com/events/raidhour202
@@ -260,8 +240,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Vulpix Community Day
 DTSTART;TZID=Europe/Brussels:20260201T140000
 DTEND;TZID=Europe/Brussels:20260201T170000
-DTSTAMP:20260120T062246Z
-UID:2026-02-01T14:00:00+01:00--3729156224320588463@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-02-01T14:00:00+01:00--357357459097706858@leekduck-calendar
 DESCRIPTION:Vulpix and Alolan Vulpix\, the Fox Pokémon\, will be featured
   during February Community Day!\n\nMore info: https://leekduck.com/events/
  february-communityday2026/\n\nData from LeekDuck.com
@@ -277,8 +257,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Into the Depths
 DTSTART;TZID=Europe/Brussels:20260127T100000
 DTEND;TZID=Europe/Brussels:20260201T200000
-DTSTAMP:20260120T062246Z
-UID:2026-01-27T10:00:00+01:00-3815853570339897455@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-27T10:00:00+01:00--8917411428366622998@leekduck-calendar
 DESCRIPTION:Plunge Into the Depths for Glimmet’s debut in Pokémon GO!\n
  \nMore info: https://leekduck.com/events/into-the-depths-2026/\n\nData fro
  m LeekDuck.com
@@ -299,8 +279,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Ho-Oh Max Battle Weekend
 DTSTART;TZID=Europe/Brussels:20260131T060000
 DTEND;TZID=Europe/Brussels:20260201T210000
-DTSTAMP:20260120T062246Z
-UID:2026-01-31T06:00:00+01:00-2397510902745050183@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-31T06:00:00+01:00-1692444104123636446@leekduck-calendar
 DESCRIPTION:Let colors fly during Dynamax Ho-Oh Max Battle Weekend!\n\nMor
  e info: https://leekduck.com/events/dynamax-ho-oh-max-battle-weekend/\n\nD
  ata from LeekDuck.com
@@ -322,8 +302,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Shadow Cresselia in Shadow Raids
 DTSTART;TZID=Europe/Brussels:20260102T060000
 DTEND;TZID=Europe/Brussels:20260201T220000
-DTSTAMP:20260120T062246Z
-UID:2026-01-02T06:00:00+01:00--3768142010259413199@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-02T06:00:00+01:00-28534434361490869@leekduck-calendar
 DESCRIPTION:Shadow Cresselia will appear in Pokémon GO in Shadow Raids. I
  f you’re lucky you’ll be able to encounter Shiny Shadow Cresselia!\n\n
  Shadow Cresselia will appear in five-star Shadow Raids every weekend from 
@@ -348,8 +328,8 @@ BEGIN:VEVENT
 SUMMARY:🎫 GO Pass: January
 DTSTART;TZID=Europe/Brussels:20260106T100000
 DTEND;TZID=Europe/Brussels:20260203T100000
-DTSTAMP:20260120T062246Z
-UID:2026-01-06T10:00:00+01:00-7037254936964053182@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-06T10:00:00+01:00--8854791480673085500@leekduck-calendar
 DESCRIPTION:Dialga and the Lucky Trinket return for GO Pass: January!\n\nF
  rom Tuesday\, January 6\, at 10:00 a.m. to Tuesday\, February 3\, at 10:00
   a.m. local time\, the GO Pass and GO Pass Deluxe for January will be avai
@@ -372,8 +352,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Ampharos in Mega Raids
 DTSTART;TZID=Europe/Brussels:20260125T100000
 DTEND;TZID=Europe/Brussels:20260204T100000
-DTSTAMP:20260120T062246Z
-UID:2026-01-25T10:00:00+01:00--1693710172698288295@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-25T10:00:00+01:00--8815185331959166850@leekduck-calendar
 DESCRIPTION:Mega Ampharos return to Mega Raids on January 25\, 2026\, at 1
  0 am local time.\n\nMore info: https://leekduck.com/events/mega-ampharos-i
  n-mega-raids-january-2026/\n\nData from LeekDuck.com
@@ -394,8 +374,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Tornadus (Incarnate Forme) in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20260125T100000
 DTEND;TZID=Europe/Brussels:20260204T100000
-DTSTAMP:20260120T062246Z
-UID:2026-01-25T10:00:00+01:00-6280804926973640175@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-01-25T10:00:00+01:00-75105188123732619@leekduck-calendar
 DESCRIPTION:Tornadus (Incarnate Forme) will be in five-star raid battles f
  rom January 25\, 2026 to February 4\, 2026.\n\nThere will also be a Raid H
  our featuring Tornadus (Incarnate Forme) from 6:00 pm to 7:00 pm local tim
@@ -422,8 +402,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Catch Mastery Day
 DTSTART;TZID=Europe/Brussels:20260207T100000
 DTEND;TZID=Europe/Brussels:20260207T200000
-DTSTAMP:20260120T062246Z
-UID:2026-02-07T10:00:00+01:00--5763549080113638396@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-02-07T10:00:00+01:00--8218488184773524570@leekduck-calendar
 DESCRIPTION:The Catch Mastery Day event will take place on February 7\, 20
  26 from 10 am to 8 pm. Stay tuned for more details.\n\nMore info: https://
  leekduck.com/events/catch-mastery-day-february-2026/\n\nData from LeekDuck
@@ -440,8 +420,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Raid Day
 DTSTART;TZID=Europe/Brussels:20260214T140000
 DTEND;TZID=Europe/Brussels:20260214T170000
-DTSTAMP:20260120T062246Z
-UID:2026-02-14T14:00:00+01:00--8282175994290284078@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-02-14T14:00:00+01:00-4843288989314830862@leekduck-calendar
 DESCRIPTION:The Raid Day event will take place on February 14\, 2026 from 
  2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck.
  com/events/raid-day-february-2026/\n\nData from LeekDuck.com
@@ -457,8 +437,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Max Battle Day
 DTSTART;TZID=Europe/Brussels:20260215T140000
 DTEND;TZID=Europe/Brussels:20260215T170000
-DTSTAMP:20260120T062246Z
-UID:2026-02-15T14:00:00+01:00--1697137612344851269@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-02-15T14:00:00+01:00--7449347931352904023@leekduck-calendar
 DESCRIPTION:The Max Battle Day event will take place on February 15\, 2026
   from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://lee
  kduck.com/events/max-battle-day-february-2026/\n\nData from LeekDuck.com
@@ -474,8 +454,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Pokémon GO Tour: Kalos - Global 2026
 DTSTART;TZID=Europe/Brussels:20260228T100000
 DTEND;TZID=Europe/Brussels:20260301T180000
-DTSTAMP:20260120T062246Z
-UID:2026-02-28T10:00:00+01:00--5559512643106464655@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-02-28T10:00:00+01:00--8587178708620553782@leekduck-calendar
 DESCRIPTION:Other Event Locations:\n\nBuy tickets:Pokémon GO Web Store\n\
  nJoin millions of Trainers across the globe for Pokémon GO Tour: Kalos 
  – Global! Take part in this worldwide event inspired by the Kalos region
@@ -507,8 +487,8 @@ BEGIN:VEVENT
 SUMMARY:🔍 Masterwork Research: A Precious Catch
 DTSTART;TZID=Europe/Brussels:20251202T100000
 DTEND;TZID=Europe/Brussels:20251202T110000
-DTSTAMP:20260120T062246Z
-UID:2025-12-02T10:00:00+01:00-2168119731038882686@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2025-12-02T10:00:00+01:00--932044585238341471@leekduck-calendar
 DESCRIPTION:The times above are when the ticket can be purchased and the M
  asterwork Research can be obtained. Masterwork Research does not expire\, 
  you can complete it at your own pace.\n\nFor US$7.99 (or the equivalent pr
@@ -536,8 +516,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Precious Paths
 DTSTART;TZID=Europe/Brussels:20251202T100000
 DTEND;TZID=Europe/Brussels:20260303T100000
-DTSTAMP:20260120T062246Z
-UID:2025-12-02T10:00:00+01:00--8280290285126199555@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2025-12-02T10:00:00+01:00--3013795970969665021@leekduck-calendar
 DESCRIPTION:Welcome to the next Pokémon GO Season: Precious Paths!\n\nMor
  e info: https://leekduck.com/events/season-21-precious-paths/\n\nData from
   LeekDuck.com
@@ -558,8 +538,8 @@ BEGIN:VEVENT
 SUMMARY:🌍 Season Event
 DTSTART;TZID=Europe/Brussels:20260307T100000
 DTEND;TZID=Europe/Brussels:20260309T200000
-DTSTAMP:20260120T062246Z
-UID:2026-03-07T10:00:00+01:00-1917241906760896070@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-03-07T10:00:00+01:00-6198071012103936360@leekduck-calendar
 DESCRIPTION:The Season Event event will take place from March 7\, 2026 at 
  10 am to March 9\, 2026 at 8 pm. Stay tuned for more details.\n\nMore info
  : https://leekduck.com/events/season-event-march-2026/\n\nData from LeekDu
@@ -581,8 +561,8 @@ BEGIN:VEVENT
 SUMMARY:📅 March Community Day
 DTSTART;TZID=Europe/Brussels:20260314T140000
 DTEND;TZID=Europe/Brussels:20260314T170000
-DTSTAMP:20260120T062246Z
-UID:2026-03-14T14:00:00+01:00--7405582293695985669@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-03-14T14:00:00+01:00-6655657868986487103@leekduck-calendar
 DESCRIPTION:The March Community Day event will take place on March 14\, 20
  26 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://l
  eekduck.com/events/march-communityday2026/\n\nData from LeekDuck.com
@@ -598,8 +578,8 @@ BEGIN:VEVENT
 SUMMARY:🔍 Research Day
 DTSTART;TZID=Europe/Brussels:20260321T140000
 DTEND;TZID=Europe/Brussels:20260321T170000
-DTSTAMP:20260120T062246Z
-UID:2026-03-21T14:00:00+01:00-9005763316565930096@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-03-21T14:00:00+01:00--5260960672380841188@leekduck-calendar
 DESCRIPTION:The Research Day event will take place on March 21\, 2026 from
   2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck
  .com/events/research-day-march-2026/\n\nData from LeekDuck.com
@@ -615,8 +595,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Max Battle Day
 DTSTART;TZID=Europe/Brussels:20260328T140000
 DTEND;TZID=Europe/Brussels:20260328T170000
-DTSTAMP:20260120T062246Z
-UID:2026-03-28T14:00:00+01:00--1697137612344851269@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-03-28T14:00:00+01:00--7449347931352904023@leekduck-calendar
 DESCRIPTION:The Max Battle Day event will take place on March 28\, 2026 fr
  om 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekdu
  ck.com/events/max-battle-day-march-2026/\n\nData from LeekDuck.com
@@ -632,8 +612,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Raid Day
 DTSTART;TZID=Europe/Brussels:20260404T140000
 DTEND;TZID=Europe/Brussels:20260404T170000
-DTSTAMP:20260120T062246Z
-UID:2026-04-04T14:00:00+02:00--8282175994290284078@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-04-04T14:00:00+02:00-4843288989314830862@leekduck-calendar
 DESCRIPTION:The Raid Day event will take place on April 4\, 2026 from 2 pm
   to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck.com/
  events/raid-day-april-2026/\n\nData from LeekDuck.com
@@ -649,8 +629,8 @@ BEGIN:VEVENT
 SUMMARY:📅 April Community Day
 DTSTART;TZID=Europe/Brussels:20260411T140000
 DTEND;TZID=Europe/Brussels:20260411T170000
-DTSTAMP:20260120T062246Z
-UID:2026-04-11T14:00:00+02:00--5921224467912761865@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-04-11T14:00:00+02:00-8580842551980494981@leekduck-calendar
 DESCRIPTION:The April Community Day event will take place on April 11\, 20
  26 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://l
  eekduck.com/events/april-communityday2026/\n\nData from LeekDuck.com
@@ -666,8 +646,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Hatch Day
 DTSTART;TZID=Europe/Brussels:20260418T140000
 DTEND;TZID=Europe/Brussels:20260418T170000
-DTSTAMP:20260120T062246Z
-UID:2026-04-18T14:00:00+02:00--5344715944473132772@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-04-18T14:00:00+02:00--1904277037522543104@leekduck-calendar
 DESCRIPTION:The Hatch Day event will take place on April 18\, 2026 from 2 
  pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck.co
  m/events/hatch-day-april-2026/\n\nData from LeekDuck.com
@@ -683,8 +663,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Max Battle Day
 DTSTART;TZID=Europe/Brussels:20260425T140000
 DTEND;TZID=Europe/Brussels:20260425T170000
-DTSTAMP:20260120T062246Z
-UID:2026-04-25T14:00:00+02:00--1697137612344851269@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-04-25T14:00:00+02:00--7449347931352904023@leekduck-calendar
 DESCRIPTION:The Max Battle Day event will take place on April 25\, 2026 fr
  om 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekdu
  ck.com/events/max-battle-day-april-2026/\n\nData from LeekDuck.com
@@ -700,8 +680,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Shadow Raid Day
 DTSTART;TZID=Europe/Brussels:20260502T140000
 DTEND;TZID=Europe/Brussels:20260502T170000
-DTSTAMP:20260120T062246Z
-UID:2026-05-02T14:00:00+02:00-7461500323611390494@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-05-02T14:00:00+02:00--6857202555946288153@leekduck-calendar
 DESCRIPTION:The Shadow Raid Day event will take place on May 2\, 2026 from
   2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck
  .com/events/shadow-raid-day-may-2026/\n\nData from LeekDuck.com
@@ -717,8 +697,8 @@ BEGIN:VEVENT
 SUMMARY:📅 May Community Day
 DTSTART;TZID=Europe/Brussels:20260509T140000
 DTEND;TZID=Europe/Brussels:20260509T170000
-DTSTAMP:20260120T062246Z
-UID:2026-05-09T14:00:00+02:00-3329583209567499293@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-05-09T14:00:00+02:00--814583121683358349@leekduck-calendar
 DESCRIPTION:The May Community Day event will take place on May 9\, 2026 fr
  om 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekdu
  ck.com/events/may-communityday2026/\n\nData from LeekDuck.com
@@ -734,8 +714,8 @@ BEGIN:VEVENT
 SUMMARY:👥 May Community Day Classic
 DTSTART;TZID=Europe/Brussels:20260516T140000
 DTEND;TZID=Europe/Brussels:20260516T170000
-DTSTAMP:20260120T062246Z
-UID:2026-05-16T14:00:00+02:00-2648556151173663337@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-05-16T14:00:00+02:00-19703601931716630@leekduck-calendar
 DESCRIPTION:The May Community Day Classic event will take place on May 16\
  , 2026 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https
  ://leekduck.com/events/may-communitydayclassic2026/\n\nData from LeekDuck.
@@ -752,8 +732,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Raid Day
 DTSTART;TZID=Europe/Brussels:20260523T140000
 DTEND;TZID=Europe/Brussels:20260523T170000
-DTSTAMP:20260120T062246Z
-UID:2026-05-23T14:00:00+02:00--8282175994290284078@leekduck-calendar
+DTSTAMP:20260121T062259Z
+UID:2026-05-23T14:00:00+02:00-4843288989314830862@leekduck-calendar
 DESCRIPTION:The Raid Day event will take place on May 23\, 2026 from 2 pm 
  to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck.com/e
  vents/raid-day-may-2026/\n\nData from LeekDuck.com
