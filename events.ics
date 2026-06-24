@@ -5,36 +5,11 @@ X-WR-CALDESC:Pokemon GO events from LeekDuck.com
 X-WR-CALNAME:LeekDuck Pokemon GO Events
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:⭐ Dynamax Hoothoot during Max Monday
-DTSTART;TZID=Europe/Brussels:20260622T060000
-DTEND;TZID=Europe/Brussels:20260622T210000
-DTSTAMP:20260623T085800Z
-UID:2026-06-22T06:00:00+02:00-4030722309153398132@leekduck-calendar
-DESCRIPTION:These Dynamax Pokemon may appear in Max Battles throughout thi
- s season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local 
- time on Mondays.\n\nOnJune 22\, 2026\, the featured Dynamax Pokemon isHoot
- hoot.\n\nMore info: https://leekduck.com/events/max-mondays-2026-06-22/\n\
- nData from LeekDuck.com
-LOCATION:Pokemon GO
-URL:https://leekduck.com/events/max-mondays-2026-06-22/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: ⭐ Dynamax Hoothoot during Max Monday starts in 2 
- hours
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: ⭐ Dynamax Hoothoot during Max Monday ends today
-TRIGGER:PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚔️ Necrozma in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20260617T060000
 DTEND;TZID=Europe/Brussels:20260623T060000
-DTSTAMP:20260623T085800Z
-UID:2026-06-17T06:00:00+02:00-714966248312665264@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-17T06:00:00+02:00--8094985588598002645@leekduck-calendar
 DESCRIPTION:Necrozma will be in five-star raid battles from June 17\, 2026
   to June 23\, 2026.\n\nThere will also be a Raid Hour featuring Necrozma f
  rom 6:00 pm to 7:00 pm local time on the following date:\n\nMore info: htt
@@ -58,8 +33,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Scizor in Mega Raids
 DTSTART;TZID=Europe/Brussels:20260617T060000
 DTEND;TZID=Europe/Brussels:20260624T060000
-DTSTAMP:20260623T085800Z
-UID:2026-06-17T06:00:00+02:00--1745354379655744837@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-17T06:00:00+02:00-543916842751280669@leekduck-calendar
 DESCRIPTION:Mega Scizor will be in Mega Raids from June 17\, 2026 at 6 am 
  to June 24\, 2026 at 6 am local time.\n\nMore info: https://leekduck.com/e
  vents/mega-scizor-in-mega-raids-june-2026/\n\nData from LeekDuck.com
@@ -80,8 +55,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Celesteela and Kartana Raid Hour
 DTSTART;TZID=Europe/Brussels:20260624T180000
 DTEND;TZID=Europe/Brussels:20260624T190000
-DTSTAMP:20260623T085800Z
-UID:2026-06-24T18:00:00+02:00--5693671538166095782@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-24T18:00:00+02:00-8414933111433279916@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Celesteela and Kartana is scheduled from
   6 to 7 pm Local Time. During this hour there will be an increased number 
  of 5-star Raids.\n\nMore info: https://leekduck.com/events/raidhour2026062
@@ -99,8 +74,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Wingull Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20260625T180000
 DTEND;TZID=Europe/Brussels:20260625T190000
-DTSTAMP:20260623T085800Z
-UID:2026-06-25T18:00:00+02:00-6296795282286200182@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-25T18:00:00+02:00-7228159483077109325@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time on Thursday.\n\nJune 25
  : The featured Pokémon isWingulland the special bonus is2× Catch Stardus
@@ -118,8 +93,8 @@ BEGIN:VEVENT
 SUMMARY:💫 Skarmory Super Mega Raid Day
 DTSTART;TZID=Europe/Brussels:20260627T140000
 DTEND;TZID=Europe/Brussels:20260627T170000
-DTSTAMP:20260623T085800Z
-UID:2026-06-27T14:00:00+02:00--8939915484622249623@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-27T14:00:00+02:00-5644076665729107560@leekduck-calendar
 DESCRIPTION:Stay sharp for Skarmory Super Mega Raid Day!\n\nMore info: htt
  ps://leekduck.com/events/skarmory-super-mega-raid-day-2026/\n\nData from L
  eekDuck.com
@@ -135,8 +110,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Flying Taxi
 DTSTART;TZID=Europe/Brussels:20260623T100000
 DTEND;TZID=Europe/Brussels:20260629T200000
-DTSTAMP:20260623T085800Z
-UID:2026-06-23T10:00:00+02:00--3407329448738777606@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-23T10:00:00+02:00--3145891576307075091@leekduck-calendar
 DESCRIPTION:Take flight as Squawkabilly makes its Pokémon GO debut!\n\nTh
  e Flying Taxi event will take place from June 23\, 2026 at 10 am to June 2
  9\, 2026 at 8 pm.\n\nMore info: https://leekduck.com/events/flying-taxi-20
@@ -158,8 +133,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Flying Taxi: Taken Over
 DTSTART;TZID=Europe/Brussels:20260625T000000
 DTEND;TZID=Europe/Brussels:20260629T200000
-DTSTAMP:20260623T085800Z
-UID:2026-06-25T00:00:00+02:00--2736034864420231256@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-25T00:00:00+02:00-4980048459344899058@leekduck-calendar
 DESCRIPTION:Rescue Shadow Reshiram and more during Flying Taxi: Taken Over
  !\n\nThe Flying Taxi: Taken Over event will take place from June 25\, 2026
   at 12 am to June 29\, 2026 at 8 pm.\n\nMore info: https://leekduck.com/ev
@@ -181,8 +156,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Pidove during Max Monday
 DTSTART;TZID=Europe/Brussels:20260629T060000
 DTEND;TZID=Europe/Brussels:20260629T210000
-DTSTAMP:20260623T085800Z
-UID:2026-06-29T06:00:00+02:00--4058184882880053964@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-29T06:00:00+02:00--6803901975513417934@leekduck-calendar
 DESCRIPTION:These Dynamax Pokemon may appear in Max Battles throughout thi
  s season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local 
  time on Mondays.\n\nOnJune 29\, 2026\, the featured Dynamax Pokemon isPido
@@ -206,8 +181,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Shadow Dialga in Shadow Raids
 DTSTART;TZID=Europe/Brussels:20260602T060000
 DTEND;TZID=Europe/Brussels:20260630T220000
-DTSTAMP:20260623T085800Z
-UID:2026-06-02T06:00:00+02:00--7375387988029640628@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-02T06:00:00+02:00--3312872936409877164@leekduck-calendar
 DESCRIPTION:Shadow Dialga will appear in Pokemon GO in Shadow Raids. If yo
  u’re lucky you’ll be able to encounter Shiny Shadow Dialga!\n\nShadow 
  Dialga will appear in five-star Shadow Raids every weekend from June 2 to 
@@ -231,8 +206,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Celesteela and Kartana in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20260624T060000
 DTEND;TZID=Europe/Brussels:20260630T060000
-DTSTAMP:20260623T085800Z
-UID:2026-06-24T06:00:00+02:00-8383178499184138845@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-24T06:00:00+02:00--4867956225596747892@leekduck-calendar
 DESCRIPTION:Celesteela and Kartana will be in five-star raid battles from 
  June 24\, 2026 to June 30\, 2026.\n\nThere will also be a Raid Hour featur
  ing these Pokemon from 6:00 pm to 7:00 pm local time on the following date
@@ -259,8 +234,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Pidgeot in Mega Raids
 DTSTART;TZID=Europe/Brussels:20260624T060000
 DTEND;TZID=Europe/Brussels:20260701T060000
-DTSTAMP:20260623T085800Z
-UID:2026-06-24T06:00:00+02:00-5144928562700645945@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-24T06:00:00+02:00-600919794815631538@leekduck-calendar
 DESCRIPTION:Mega Pidgeot will be in Mega Raids from June 24\, 2026 at 6 am
   to July 1\, 2026 at 6 am local time.\n\nMore info: https://leekduck.com/e
  vents/mega-pidgeot-in-mega-raids-june-2026/\n\nData from LeekDuck.com
@@ -281,8 +256,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Articuno\, Zapdos\, and Moltres Raid Hour
 DTSTART;TZID=Europe/Brussels:20260701T180000
 DTEND;TZID=Europe/Brussels:20260701T190000
-DTSTAMP:20260623T085800Z
-UID:2026-07-01T18:00:00+02:00-4758772177369503650@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-01T18:00:00+02:00-4965138402854280249@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Articuno\, Zapdos\, and Moltres is sched
  uled from 6 to 7 pm Local Time. During this hour there will be an increase
  d number of 5-star Raids.\n\nMore info: https://leekduck.com/events/raidho
@@ -300,8 +275,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Pidgey Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20260702T180000
 DTEND;TZID=Europe/Brussels:20260702T190000
-DTSTAMP:20260623T085800Z
-UID:2026-07-02T18:00:00+02:00--5068071957987341085@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-02T18:00:00+02:00--3764084111706386084@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time on Thursday.\n\nJuly 2:
   The featured Pokémon isPidgeyand the special bonus is2× Evolution XP.\n
@@ -319,8 +294,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Choose Your Path: Charged Embers
 DTSTART;TZID=Europe/Brussels:20260630T100000
 DTEND;TZID=Europe/Brussels:20260703T200000
-DTSTAMP:20260623T085800Z
-UID:2026-06-30T10:00:00+02:00-4993371475006522084@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-30T10:00:00+02:00-9151884538753167617@leekduck-calendar
 DESCRIPTION:Choose Your Path Timed Research is a new way to play during no
  n-event weeks\, giving you the freedom to explore Pokémon GO your way!\n\
  nDuring a Choose Your Path Timed Research week\, you’ll be able to selec
@@ -347,8 +322,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Sobble Community Day
 DTSTART;TZID=Europe/Brussels:20260704T140000
 DTEND;TZID=Europe/Brussels:20260704T170000
-DTSTAMP:20260623T085800Z
-UID:2026-07-04T14:00:00+02:00--289861901783649707@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-04T14:00:00+02:00--2554230853137588787@leekduck-calendar
 DESCRIPTION:Sobble\, the Water Lizard Pokémon\, will be featured during J
  uly Community Day!\n\nMore info: https://leekduck.com/events/july-communit
  yday2026/\n\nData from LeekDuck.com
@@ -364,8 +339,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20260701T060000
 DTEND;TZID=Europe/Brussels:20260705T060000
-DTSTAMP:20260623T085800Z
-UID:2026-07-01T06:00:00+02:00-4987943759779999966@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-01T06:00:00+02:00--6143568908153747187@leekduck-calendar
 DESCRIPTION:Articuno\, Zapdos\, and Moltres will be in five-star raid batt
  les from July 1\, 2026 to July 5\, 2026.\n\nThere will also be a Raid Hour
   featuring Articuno\, Zapdos\, and Moltres from 6:00 pm to 7:00 pm local t
@@ -392,8 +367,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Lucario in Mega Raids
 DTSTART;TZID=Europe/Brussels:20260701T060000
 DTEND;TZID=Europe/Brussels:20260705T220000
-DTSTAMP:20260623T085800Z
-UID:2026-07-01T06:00:00+02:00--3839863573015865033@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-01T06:00:00+02:00-196253017436937967@leekduck-calendar
 DESCRIPTION:Mega Lucario will be in Mega Raids from July 1\, 2026 at 6 am 
  to July 5\, 2026 at 10 pm local time.\n\nMore info: https://leekduck.com/e
  vents/mega-lucario-in-mega-raids-july-2026/\n\nData from LeekDuck.com
@@ -414,8 +389,8 @@ BEGIN:VEVENT
 SUMMARY:📅 10th Anniversary Party
 DTSTART;TZID=Europe/Brussels:20260704T100000
 DTEND;TZID=Europe/Brussels:20260706T200000
-DTSTAMP:20260623T085800Z
-UID:2026-07-04T10:00:00+02:00--1353849073553123745@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-04T10:00:00+02:00--5484447977252123071@leekduck-calendar
 DESCRIPTION:Celebrate a decade of Pokémon GO together during the 10th Ann
  iversary Party!\n\nThe 10th Anniversary Party event will take place from J
  uly 4\, 2026 at 10 am to July 6\, 2026 at 8 pm.\n\nMore info: https://leek
@@ -437,8 +412,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Chansey during Max Monday
 DTSTART;TZID=Europe/Brussels:20260706T060000
 DTEND;TZID=Europe/Brussels:20260706T210000
-DTSTAMP:20260623T085800Z
-UID:2026-07-06T06:00:00+02:00-6442681058348777842@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-06T06:00:00+02:00-4920283622538220262@leekduck-calendar
 DESCRIPTION:These Dynamax Pokemon may appear in Max Battles throughout thi
  s season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local 
  time on Mondays.\n\nOnJuly 6\, 2026\, the featured Dynamax Pokemon isChans
@@ -462,8 +437,8 @@ BEGIN:VEVENT
 SUMMARY:🎫 GO Pass: June
 DTSTART;TZID=Europe/Brussels:20260602T100000
 DTEND;TZID=Europe/Brussels:20260707T100000
-DTSTAMP:20260623T085800Z
-UID:2026-06-02T10:00:00+02:00--2762645583623719786@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-02T10:00:00+02:00--9198345678155456639@leekduck-calendar
 DESCRIPTION:Lugia and the Timed Incubator return for GO Pass: June!\n\nFro
  m Tuesday\, June 2\, at 10:00 a.m. to Tuesday\, July 7\, at 10:00 a.m. loc
  al time\, the GO Pass and GO Pass Deluxe for June will be available in Pok
@@ -486,8 +461,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Road of Legends
 DTSTART;TZID=Europe/Brussels:20260706T000100
 DTEND;TZID=Europe/Brussels:20260710T235900
-DTSTAMP:20260623T085800Z
-UID:2026-07-06T00:01:00+02:00--6002181367428696765@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-06T00:01:00+02:00--9126022733695299185@leekduck-calendar
 DESCRIPTION:The countdown to Pokémon GO Fest 2026: Global starts here! Du
  ring the Road of Legends\, Trainers around the world can gear up for the b
  ig weekend with a full week of powerful raid encounters\, event bonuses\, 
@@ -513,8 +488,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Pokémon GO Fest 2026: Global
 DTSTART;TZID=Europe/Brussels:20260711T100000
 DTEND;TZID=Europe/Brussels:20260712T190000
-DTSTAMP:20260623T085800Z
-UID:2026-07-11T10:00:00+02:00--5218616970875179080@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-11T10:00:00+02:00--4118526835856036819@leekduck-calendar
 DESCRIPTION:Join millions of Trainers across the globe for Pokémon GO Fes
  t 2026: Global! This worldwide event takes place from July 11\, 2026 at 10
   am to July 12\, 2026 at 7 pm local time.\n\nFor the first time\, GO Fest:
@@ -540,8 +515,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Deino during Max Monday
 DTSTART;TZID=Europe/Brussels:20260713T060000
 DTEND;TZID=Europe/Brussels:20260713T210000
-DTSTAMP:20260623T085800Z
-UID:2026-07-13T06:00:00+02:00--5600187135502174012@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-13T06:00:00+02:00-7724751409703970003@leekduck-calendar
 DESCRIPTION:These Dynamax Pokemon may appear in Max Battles throughout thi
  s season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local 
  time on Mondays.\n\nOnJuly 13\, 2026\, the featured Dynamax Pokemon isDein
@@ -565,8 +540,8 @@ BEGIN:VEVENT
 SUMMARY:💫 Mega Lucario in Mega Raids - July 13
 DTSTART;TZID=Europe/Brussels:20260713T060000
 DTEND;TZID=Europe/Brussels:20260714T220000
-DTSTAMP:20260623T085800Z
-UID:2026-07-13T06:00:00+02:00--5858387409419327409@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-13T06:00:00+02:00--7248828562144781182@leekduck-calendar
 DESCRIPTION:Mega Lucario returns to Mega Raids from July 13\, 2026 at 6 am
   to July 14\, 2026 at 10 pm local time.\n\nMore info: https://leekduck.com
  /events/mega-lucario-in-mega-raids-july-13-2026/\n\nData from LeekDuck.com
@@ -589,8 +564,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Kyogre Raid Hour
 DTSTART;TZID=Europe/Brussels:20260715T180000
 DTEND;TZID=Europe/Brussels:20260715T190000
-DTSTAMP:20260623T085800Z
-UID:2026-07-15T18:00:00+02:00--8607722280164913633@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-15T18:00:00+02:00--7535699999357269206@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Kyogre is scheduled from 6 to 7 pm Local
   Time. During this hour there will be an increased number of 5-star Raids.
  \n\nMore info: https://leekduck.com/events/raidhour20260715/\n\nData from 
@@ -607,8 +582,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Zubat Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20260716T180000
 DTEND;TZID=Europe/Brussels:20260716T190000
-DTSTAMP:20260623T085800Z
-UID:2026-07-16T18:00:00+02:00-1407448805279602331@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-16T18:00:00+02:00-1899785073837276390@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time on Thursday.\n\nJuly 16
  : The featured Pokémon isZubatand the special bonus is2× Catch XP.\n\nMo
@@ -626,8 +601,8 @@ BEGIN:VEVENT
 SUMMARY:💫 Raichu Super Mega Raid Day
 DTSTART;TZID=Europe/Brussels:20260718T140000
 DTEND;TZID=Europe/Brussels:20260718T170000
-DTSTAMP:20260623T085800Z
-UID:2026-07-18T14:00:00+02:00--7848902179651805987@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-18T14:00:00+02:00--961908956608617742@leekduck-calendar
 DESCRIPTION:Sparks fly for Raichu Super Mega Raid Day!\n\nMore info: https
  ://leekduck.com/events/raichu-super-mega-raid-day-2026/\n\nData from LeekD
  uck.com
@@ -643,8 +618,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Weekend Event
 DTSTART;TZID=Europe/Brussels:20260718T100000
 DTEND;TZID=Europe/Brussels:20260718T200000
-DTSTAMP:20260623T085800Z
-UID:2026-07-18T10:00:00+02:00--4437821233049933903@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-18T10:00:00+02:00-6736965754188510786@leekduck-calendar
 DESCRIPTION:The Weekend Event event will take place on July 18\, 2026 from
   10 am to 8 pm. Stay tuned for more details.\n\nMore info: https://leekduc
  k.com/events/weekend-event-july-2026/\n\nData from LeekDuck.com
@@ -660,8 +635,8 @@ BEGIN:VEVENT
 SUMMARY:📅 July Event
 DTSTART;TZID=Europe/Brussels:20260713T100000
 DTEND;TZID=Europe/Brussels:20260720T200000
-DTSTAMP:20260623T085800Z
-UID:2026-07-13T10:00:00+02:00-764872501264242924@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-13T10:00:00+02:00--1993945297171180230@leekduck-calendar
 DESCRIPTION:The July Event event will take place from July 13\, 2026 at 10
   am to July 20\, 2026 at 8 pm. Stay tuned for more details.\n\nMore info: 
  https://leekduck.com/events/july-event-2026/\n\nData from LeekDuck.com
@@ -682,8 +657,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Trubbish during Max Monday
 DTSTART;TZID=Europe/Brussels:20260720T060000
 DTEND;TZID=Europe/Brussels:20260720T210000
-DTSTAMP:20260623T085800Z
-UID:2026-07-20T06:00:00+02:00-1938465771243771428@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-20T06:00:00+02:00-4324580428753390493@leekduck-calendar
 DESCRIPTION:These Dynamax Pokemon may appear in Max Battles throughout thi
  s season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local 
  time on Mondays.\n\nOnJuly 20\, 2026\, the featured Dynamax Pokemon isTrub
@@ -707,8 +682,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Kyogre in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20260715T060000
 DTEND;TZID=Europe/Brussels:20260721T060000
-DTSTAMP:20260623T085800Z
-UID:2026-07-15T06:00:00+02:00--4300342148032985197@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-15T06:00:00+02:00--8100076832728364802@leekduck-calendar
 DESCRIPTION:Kyogre will be in five-star raid battles from July 15\, 2026 t
  o July 21\, 2026.\n\nThere will also be a Raid Hour featuring Kyogre from 
  6:00 pm to 7:00 pm local time on the following date:\n\nMore info: https:/
@@ -732,8 +707,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Sceptile in Mega Raids
 DTSTART;TZID=Europe/Brussels:20260715T060000
 DTEND;TZID=Europe/Brussels:20260721T220000
-DTSTAMP:20260623T085800Z
-UID:2026-07-15T06:00:00+02:00--4361105069437042641@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-15T06:00:00+02:00-7404379102252174572@leekduck-calendar
 DESCRIPTION:Mega Sceptile will be in Mega Raids from July 15\, 2026 at 6 a
  m to July 21\, 2026 at 10 pm local time.\n\nMore info: https://leekduck.co
  m/events/mega-sceptile-in-mega-raids-july-2026/\n\nData from LeekDuck.com
@@ -754,8 +729,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Solgaleo Raid Hour
 DTSTART;TZID=Europe/Brussels:20260722T180000
 DTEND;TZID=Europe/Brussels:20260722T190000
-DTSTAMP:20260623T085800Z
-UID:2026-07-22T18:00:00+02:00--1778968089824633309@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-22T18:00:00+02:00--4749965046515241385@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Solgaleo is scheduled from 6 to 7 pm Loc
  al Time. During this hour there will be an increased number of 5-star Raid
  s.\n\nMore info: https://leekduck.com/events/raidhour20260722/\n\nData fro
@@ -772,8 +747,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Eevee Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20260723T180000
 DTEND;TZID=Europe/Brussels:20260723T190000
-DTSTAMP:20260623T085800Z
-UID:2026-07-23T18:00:00+02:00--780137567349797086@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-23T18:00:00+02:00-8921022653160393266@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time on Thursday.\n\nJuly 23
  : The featured Pokémon isEeveeand the special bonus is2× Catch Candy.\n\
@@ -791,8 +766,8 @@ BEGIN:VEVENT
 SUMMARY:📅 July Event - July 21
 DTSTART;TZID=Europe/Brussels:20260721T100000
 DTEND;TZID=Europe/Brussels:20260727T200000
-DTSTAMP:20260623T085800Z
-UID:2026-07-21T10:00:00+02:00-8568598813621584285@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-21T10:00:00+02:00-7998953858037801772@leekduck-calendar
 DESCRIPTION:The July Event - July 21 event will take place from July 21\, 
  2026 at 10 am to July 27\, 2026 at 8 pm. Stay tuned for more details.\n\nM
  ore info: https://leekduck.com/events/july-event-2026-july-21/\n\nData fro
@@ -814,8 +789,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Feebas during Max Monday
 DTSTART;TZID=Europe/Brussels:20260727T060000
 DTEND;TZID=Europe/Brussels:20260727T210000
-DTSTAMP:20260623T085800Z
-UID:2026-07-27T06:00:00+02:00-3810557633033424819@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-27T06:00:00+02:00--5421865313579900881@leekduck-calendar
 DESCRIPTION:These Dynamax Pokemon may appear in Max Battles throughout thi
  s season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local 
  time on Mondays.\n\nOnJuly 27\, 2026\, the featured Dynamax Pokemon isFeeb
@@ -839,8 +814,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Salamence in Mega Raids
 DTSTART;TZID=Europe/Brussels:20260722T060000
 DTEND;TZID=Europe/Brussels:20260728T220000
-DTSTAMP:20260623T085800Z
-UID:2026-07-22T06:00:00+02:00--7551372680498823321@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-22T06:00:00+02:00-8309485072593436574@leekduck-calendar
 DESCRIPTION:Mega Salamence will be in Mega Raids from July 22\, 2026 at 6 
  am to July 28\, 2026 at 10 pm local time.\n\nMore info: https://leekduck.c
  om/events/mega-salamence-in-mega-raids-july-2026/\n\nData from LeekDuck.co
@@ -862,8 +837,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Solgaleo in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20260722T060000
 DTEND;TZID=Europe/Brussels:20260728T060000
-DTSTAMP:20260623T085800Z
-UID:2026-07-22T06:00:00+02:00--1161947493566649367@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-22T06:00:00+02:00--8263827184300343372@leekduck-calendar
 DESCRIPTION:Solgaleo will be in five-star raid battles from July 22\, 2026
   to July 28\, 2026.\n\nThere will also be a Raid Hour featuring Solgaleo f
  rom 6:00 pm to 7:00 pm local time on the following date:\n\nMore info: htt
@@ -887,8 +862,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Kyurem Raid Hour
 DTSTART;TZID=Europe/Brussels:20260729T180000
 DTEND;TZID=Europe/Brussels:20260729T190000
-DTSTAMP:20260623T085800Z
-UID:2026-07-29T18:00:00+02:00-7165896787162912534@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-29T18:00:00+02:00--8821918743635216163@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Kyurem is scheduled from 6 to 7 pm Local
   Time. During this hour there will be an increased number of 5-star Raids.
  \n\nMore info: https://leekduck.com/events/raidhour20260729/\n\nData from 
@@ -905,8 +880,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Bidoof Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20260730T180000
 DTEND;TZID=Europe/Brussels:20260730T190000
-DTSTAMP:20260623T085800Z
-UID:2026-07-30T18:00:00+02:00--2441979262130763444@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-30T18:00:00+02:00-4744079644798072560@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time on Thursday.\n\nJuly 30
  : The featured Pokémon isBidoofand the special bonus is2× Transfer Candy
@@ -924,8 +899,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Choose Your Path: Fairy Trail
 DTSTART;TZID=Europe/Brussels:20260728T100000
 DTEND;TZID=Europe/Brussels:20260803T200000
-DTSTAMP:20260623T085800Z
-UID:2026-07-28T10:00:00+02:00-6883311024435783867@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-28T10:00:00+02:00--8356184105810445293@leekduck-calendar
 DESCRIPTION:Choose Your Path Timed Research is a new way to play during no
  n-event weeks\, giving you the freedom to explore Pokémon GO your way!\n\
  nDuring a Choose Your Path Timed Research week\, you’ll be able to selec
@@ -952,8 +927,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Shadow Palkia in Shadow Raids
 DTSTART;TZID=Europe/Brussels:20260701T060000
 DTEND;TZID=Europe/Brussels:20260804T220000
-DTSTAMP:20260623T085800Z
-UID:2026-07-01T06:00:00+02:00-2339284249338742820@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-01T06:00:00+02:00--481182721544013194@leekduck-calendar
 DESCRIPTION:Shadow Palkia will appear in Pokemon GO in Shadow Raids. If yo
  u’re lucky you’ll be able to encounter Shiny Shadow Palkia!\n\nShadow 
  Palkia will appear in five-star Shadow Raids every weekend from July 1 to 
@@ -977,8 +952,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Kyurem in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20260729T060000
 DTEND;TZID=Europe/Brussels:20260804T060000
-DTSTAMP:20260623T085800Z
-UID:2026-07-29T06:00:00+02:00-6707351574391933599@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-29T06:00:00+02:00--6520209680776134517@leekduck-calendar
 DESCRIPTION:Kyurem will be in five-star raid battles from July 29\, 2026 t
  o August 4\, 2026.\n\nThere will also be a Raid Hour featuring Kyurem from
   6:00 pm to 7:00 pm local time on the following date:\n\nMore info: https:
@@ -1002,8 +977,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Aggron in Mega Raids
 DTSTART;TZID=Europe/Brussels:20260729T060000
 DTEND;TZID=Europe/Brussels:20260804T220000
-DTSTAMP:20260623T085800Z
-UID:2026-07-29T06:00:00+02:00--6192893239815782980@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-07-29T06:00:00+02:00--8754838178220797410@leekduck-calendar
 DESCRIPTION:Mega Aggron will be in Mega Raids from July 29\, 2026 at 6 am 
  to August 4\, 2026 at 10 pm local time.\n\nMore info: https://leekduck.com
  /events/mega-aggron-in-mega-raids-july-2026/\n\nData from LeekDuck.com
@@ -1024,8 +999,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Hatch Day
 DTSTART;TZID=Europe/Brussels:20260808T110000
 DTEND;TZID=Europe/Brussels:20260808T170000
-DTSTAMP:20260623T085800Z
-UID:2026-08-08T11:00:00+02:00-5251999192611537231@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-08-08T11:00:00+02:00-8676506641343204484@leekduck-calendar
 DESCRIPTION:The Hatch Day event will take place on August 8\, 2026 from 11
   am to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck.c
  om/events/hatch-day-august-2026/\n\nData from LeekDuck.com
@@ -1041,8 +1016,8 @@ BEGIN:VEVENT
 SUMMARY:📅 August Community Day
 DTSTART;TZID=Europe/Brussels:20260816T140000
 DTEND;TZID=Europe/Brussels:20260816T170000
-DTSTAMP:20260623T085800Z
-UID:2026-08-16T14:00:00+02:00--8846930894184462686@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-08-16T14:00:00+02:00-2334294176405186632@leekduck-calendar
 DESCRIPTION:The August Community Day event will take place on August 16\, 
  2026 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https:/
  /leekduck.com/events/august-communityday2026/\n\nData from LeekDuck.com
@@ -1058,8 +1033,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Choose Your Path: Venom and Vines
 DTSTART;TZID=Europe/Brussels:20260811T100000
 DTEND;TZID=Europe/Brussels:20260817T200000
-DTSTAMP:20260623T085800Z
-UID:2026-08-11T10:00:00+02:00--2256481640909889560@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-08-11T10:00:00+02:00-4419445426098562637@leekduck-calendar
 DESCRIPTION:Choose Your Path Timed Research is a new way to play during no
  n-event weeks\, giving you the freedom to explore Pokémon GO your way!\n\
  nDuring a Choose Your Path Timed Research week\, you’ll be able to selec
@@ -1086,8 +1061,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Raid Day
 DTSTART;TZID=Europe/Brussels:20260822T140000
 DTEND;TZID=Europe/Brussels:20260822T170000
-DTSTAMP:20260623T085800Z
-UID:2026-08-22T14:00:00+02:00--765800787098596690@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-08-22T14:00:00+02:00-6602279246426403088@leekduck-calendar
 DESCRIPTION:The Raid Day event will take place on August 22\, 2026 from 2 
  pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck.co
  m/events/raid-day-august-2026/\n\nData from LeekDuck.com
@@ -1103,8 +1078,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Forever Forward
 DTSTART;TZID=Europe/Brussels:20260602T100000
 DTEND;TZID=Europe/Brussels:20260908T100000
-DTSTAMP:20260623T085800Z
-UID:2026-06-02T10:00:00+02:00-4916534889023012163@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-06-02T10:00:00+02:00--4705596999327419409@leekduck-calendar
 DESCRIPTION:Welcome to Pokémon GO: Forever Forward!\n\nIn Pokémon GO\, S
  easons are periods of time that feature new events\, Pokémon debuts\, and
   surprises that all follow a certain theme. As the Seasons change\, you ma
@@ -1130,8 +1105,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Example Event Template (Auto ToC Demo)
 DTSTART;TZID=Europe/Brussels:20261201T100000
 DTEND;TZID=Europe/Brussels:20261202T200000
-DTSTAMP:20260623T085800Z
-UID:2026-12-01T10:00:00+01:00-2320749853631593996@leekduck-calendar
+DTSTAMP:20260624T085235Z
+UID:2026-12-01T10:00:00+01:00--4697114706652077332@leekduck-calendar
 DESCRIPTION:This file demonstrates the reusable event pattern:\n\nMore inf
  o: https://leekduck.com/events/example_event/\n\nData from LeekDuck.com
 LOCATION:Pokemon GO
