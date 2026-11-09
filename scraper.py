@@ -115,7 +115,8 @@ class LeekDuckScraper:
             if not title_elem:
                 title_elem = soup.find('title')
             if title_elem:
-                title_text = title_elem.get_text(strip=True)
+                # split/join turns LeekDuck's non-breaking spaces ("Raid\xa0Hour") into normal ones
+                title_text = ' '.join(title_elem.get_text(strip=True).split())
                 # Clean up title - remove " - Leek Duck" suffix and other common suffixes
                 title_text = re.sub(r'\s*-\s*Leek Duck.*$', '', title_text)
                 title_text = re.sub(r'\s*\|\s*Pokémon GO.*$', '', title_text)
