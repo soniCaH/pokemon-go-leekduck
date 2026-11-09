@@ -83,6 +83,13 @@ class LeekDuckScraper:
 
         return localized_date
 
+    def parse_iso(self, value: str) -> datetime:
+        """Parse a data-start/data-end value; no offset means Brussels local time"""
+        parsed = datetime.fromisoformat(value)
+        if parsed.tzinfo is None:
+            return self.timezone.localize(parsed)
+        return parsed.astimezone(self.timezone)
+
     def fetch_event_details(self, event_url: str) -> Dict[str, any]:
         """
         Fetch detailed information from an event's detail page
@@ -114,15 +121,29 @@ class LeekDuckScraper:
                 title_text = re.sub(r'\s*\|\s*Pokémon GO.*$', '', title_text)
                 details['title'] = title_text
 
+            # Since Sept 2026 LeekDuck puts machine-readable times on schedule rows:
+            #   <div class="schedule-row" data-kind="single|start|end|day" data-start="..." data-end="...">
+            # Times without an offset are local time; times with an offset are absolute.
+            rows = soup.select('.schedule-row[data-start]')
+            if rows:
+                details['start'] = self.parse_iso(rows[0]['data-start'])
+                last = rows[-1]
+                details['end'] = self.parse_iso(last.get('data-end') or last['data-start'])
+                if details['end'] == details['start']:
+                    details['end'] = None
+
             # Find date/time information
             # Look for text patterns like "Tuesday, October 7, 2025, at 10:00 AM Local Time"
             text_content = soup.get_text()
+            dates = []
 
             # Extract start date
             # Look for "Starts:" or "Start:" pattern (use \s+ to handle variable whitespace)
             start_pattern = r'Starts?:\s+([A-Za-z]+,\s+[A-Za-z]+\s+\d+,\s+\d{4},\s+at\s+\d+:\d+\s+[AP]M\s+Local\s+Time)'
             start_match = re.search(start_pattern, text_content, re.IGNORECASE)
-            if start_match:
+            if details['start']:
+                pass
+            elif start_match:
                 details['start'] = self.parse_datetime(start_match.group(1), prefer_future=False)
             else:
                 # Try to find any date that looks like a start date
@@ -135,7 +156,9 @@ class LeekDuckScraper:
             # Look for "Ends:" or "End:" pattern (use \s+ to handle variable whitespace)
             end_pattern = r'Ends?:\s+([A-Za-z]+,\s+[A-Za-z]+\s+\d+,\s+\d{4},\s+at\s+\d+:\d+\s+[AP]M\s+Local\s+Time)'
             end_match = re.search(end_pattern, text_content, re.IGNORECASE)
-            if end_match:
+            if details['end']:
+                pass
+            elif end_match:
                 details['end'] = self.parse_datetime(end_match.group(1), prefer_future=False)
             else:
                 # Look for pattern "from DATE to DATE at TIME" with full dates
