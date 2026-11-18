@@ -8,8 +8,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ GO Wild Area: Gigantamax Machamp Power Up! Timed Research
 DTSTART;TZID=Europe/Brussels:20261106T100000
 DTEND;TZID=Europe/Brussels:20261115T235900
-DTSTAMP:20261117T150900Z
-UID:2026-11-06T10:00:00+01:00-4061696610413008742@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-06T10:00:00+01:00--2900755220576486710@leekduck-calendar
 DESCRIPTION:There will be Timed Research available to Trainers starting Fr
  iday\, November 6\, at 10:00 a.m. to Sunday\, November 15\, 2026\, at 11:5
  9 p.m. local time.\n\nComplete the Timed Research to encounter Gigantamax 
@@ -37,8 +37,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ [Canceled] Max Monday
 DTSTART;TZID=Europe/Brussels:20261116T060000
 DTEND;TZID=Europe/Brussels:20261116T210000
-DTSTAMP:20261117T150900Z
-UID:2026-11-16T06:00:00+01:00-8249088800565605033@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-16T06:00:00+01:00-7982773914624477884@leekduck-calendar
 DESCRIPTION:There is no Max Monday on November 16\, 2026. TheDynamax Trail
  sevent is happening instead\, so there are no Max Monday-specific bonuses\
  , such as the guaranteed Rare Candy XL.\n\nAll Dynamax Pokémon that have 
@@ -63,8 +63,8 @@ SUMMARY:📅 Great League\, Ultra League: Mega Edition\, and 2026 GO LAIC
  Cup | Twilight Trails
 DTSTART;TZID=Europe/Brussels:20261110T220000
 DTEND;TZID=Europe/Brussels:20261117T220000
-DTSTAMP:20261117T150900Z
-UID:2026-11-10T22:00:00+01:00-7951396155013735416@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-10T22:00:00+01:00--8432861755761084247@leekduck-calendar
 DESCRIPTION:The Great League\, Ultra League: Mega Edition\, and 2026 GO LA
  IC Cup will run from November 10\, 2026\, at 1:00 p.m. to November 17\, 20
  26\, at 1:00 p.m. PT.\n\nThe following Pokémon will not be allowed.\n\nMo
@@ -90,8 +90,8 @@ BEGIN:VEVENT
 SUMMARY:⏰ Cresselia and Darkrai Raid Hour
 DTSTART;TZID=Europe/Brussels:20261118T180000
 DTEND;TZID=Europe/Brussels:20261118T190000
-DTSTAMP:20261117T150900Z
-UID:2026-11-18T18:00:00+01:00--7384505896252687318@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-18T18:00:00+01:00--5398009011307234567@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Cresselia and Darkrai is scheduled from 
  6:00 p.m. to 7:00 p.m. local time. During this hour there will be an incre
  ased number of five-star raids.\n\nMore info: https://leekduck.com/events/
@@ -109,8 +109,8 @@ BEGIN:VEVENT
 SUMMARY:🔦 Grookey\, Scorbunny\, and Sobble Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20261119T180000
 DTEND;TZID=Europe/Brussels:20261119T190000
-DTSTAMP:20261117T150900Z
-UID:2026-11-19T18:00:00+01:00--1093831439643975469@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-19T18:00:00+01:00--4909374256362577217@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time.\n\nNovember 19: The fe
  atured Pokémon areGrookey\, Scorbunny\, and Sobbleand the special bonus i
@@ -129,8 +129,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Minior Showers: Leonids 2026
 DTSTART;TZID=Europe/Brussels:20261114T170000
 DTEND;TZID=Europe/Brussels:20261119T235900
-DTSTAMP:20261117T150900Z
-UID:2026-11-14T17:00:00+01:00--3475967621143672498@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-14T17:00:00+01:00--9193746124101124270@leekduck-calendar
 DESCRIPTION:Explore by starlight during the Leonids meteor shower for a ch
  ance to encounter Minior in Pokémon GO!\n\nThis Minior Shower runs fromNo
  vember 14\, 2026 at 5:00 p.m.toNovember 19\, 2026 at 11:59 p.m. local time
@@ -153,8 +153,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Eternamax Eternatus Returns
 DTSTART;TZID=Europe/Brussels:20261121T110000
 DTEND;TZID=Europe/Brussels:20261121T140000
-DTSTAMP:20261117T150900Z
-UID:2026-11-21T11:00:00+01:00-4705856899383218948@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-21T11:00:00+01:00-7525879213934714737@leekduck-calendar
 DESCRIPTION:Eternamax Eternatus returns duringDynamax Trails\, taking over
   the majority of Power Spots on November 21\, 2026\, from 11 am to 2 pm lo
  cal time.\n\nMore info: https://leekduck.com/events/eternamax-eternatus-ma
@@ -171,8 +171,8 @@ BEGIN:VEVENT
 SUMMARY:👥 Pawniard Community Day
 DTSTART;TZID=Europe/Brussels:20261121T140000
 DTEND;TZID=Europe/Brussels:20261121T170000
-DTSTAMP:20261117T150900Z
-UID:2026-11-21T14:00:00+01:00-7553497927046274447@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-21T14:00:00+01:00-835143649903027190@leekduck-calendar
 DESCRIPTION:Pawniard\, the Sharp Blade Pokémon\, will be featured during 
  November Community Day!\n\nThe event takes place onSaturday\, November 21\
  , 2026\, from 2:00 p.m. to 5:00 p.m. local time.\n\nMore info: https://lee
@@ -189,8 +189,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Trails
 DTSTART;TZID=Europe/Brussels:20261116T100000
 DTEND;TZID=Europe/Brussels:20261123T200000
-DTSTAMP:20261117T150900Z
-UID:2026-11-16T10:00:00+01:00-4171391180550870984@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-16T10:00:00+01:00--6140876900580212576@leekduck-calendar
 DESCRIPTION:Get ready for a week of Max Battles! Dynamax Pokémon return\,
   Max Particles are surging in the wild\, and Eternamax Eternatus returns t
  o Power Spots during Dynamax Trails.\n\nThe Dynamax Trails event will take
@@ -214,8 +214,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Espurr during Max Monday
 DTSTART;TZID=Europe/Brussels:20261123T060000
 DTEND;TZID=Europe/Brussels:20261123T210000
-DTSTAMP:20261117T150900Z
-UID:2026-11-23T06:00:00+01:00-8522330142991505003@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-23T06:00:00+01:00--2047634361192617903@leekduck-calendar
 DESCRIPTION:Dynamax Espurr may appear in Max Battles fromNovember 23\, 202
  6throughNovember 29\, 2026.\n\nThese Dynamax Pokémon may appear in Max Ba
  ttles throughout this season. Max Battles will be available from 6:00 a.m.
@@ -240,8 +240,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Cresselia and Darkrai in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20261116T060000
 DTEND;TZID=Europe/Brussels:20261124T220000
-DTSTAMP:20261117T150900Z
-UID:2026-11-16T06:00:00+01:00--8164975437754322012@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-16T06:00:00+01:00--7595226891707804405@leekduck-calendar
 DESCRIPTION:Cresselia and Darkrai will be in five-star raid battles from N
  ovember 16\, 2026 to November 24\, 2026.\n\nRaid bosses change at 6:00 a.m
  . local time.\n\nThere will also be a Raid Hour featuring Cresselia and Da
@@ -268,8 +268,8 @@ BEGIN:VEVENT
 SUMMARY:💫 Mega Banette in Mega Raids
 DTSTART;TZID=Europe/Brussels:20261116T060000
 DTEND;TZID=Europe/Brussels:20261124T220000
-DTSTAMP:20261117T150900Z
-UID:2026-11-16T06:00:00+01:00-7092971889483076063@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-16T06:00:00+01:00--232061951482980064@leekduck-calendar
 DESCRIPTION:Mega Banette will be in Mega Raids from November 16\, 2026 at 
  6 am to November 24\, 2026 at 10 pm local time.\n\nRaid bosses change at 6
  :00 a.m. local time.\n\nMore info: https://leekduck.com/events/mega-banett
@@ -292,8 +292,8 @@ SUMMARY:📅 Ultra League\, Master League: Mega Edition\, and 2026 GO LAIC
   Cup | Twilight Trails
 DTSTART;TZID=Europe/Brussels:20261118T220000
 DTEND;TZID=Europe/Brussels:20261125T220000
-DTSTAMP:20261117T150900Z
-UID:2026-11-18T22:00:00+01:00-5220268637025293737@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-18T22:00:00+01:00--4630872204154910022@leekduck-calendar
 DESCRIPTION:The Ultra League\, Master League: Mega Edition\, and 2026 GO L
  AIC Cup will run from November 18\, 2026\, at 1:00 p.m. to November 25\, 2
  026\, at 1:00 p.m. PT.\n\nTrainers will also receive 4× Stardust from win
@@ -322,8 +322,8 @@ SUMMARY:⏰ Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hou
  r
 DTSTART;TZID=Europe/Brussels:20261125T180000
 DTEND;TZID=Europe/Brussels:20261125T190000
-DTSTAMP:20261117T150900Z
-UID:2026-11-25T18:00:00+01:00--2027038197854845614@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-25T18:00:00+01:00-3557350463607715966@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Deoxys (Normal\, Defense\, Attack\, and 
  Speed Formes) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During 
  this hour there will be an increased number of five-star raids.\n\nMore in
@@ -342,8 +342,8 @@ BEGIN:VEVENT
 SUMMARY:🔦 Noibat Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20261126T180000
 DTEND;TZID=Europe/Brussels:20261126T190000
-DTSTAMP:20261117T150900Z
-UID:2026-11-26T18:00:00+01:00-8517517575986604358@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-26T18:00:00+01:00-1270338466230711125@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time.\n\nNovember 26: The fe
  atured Pokémon isNoibatand the special bonus is2× Catch Candy.\n\nMore i
@@ -361,8 +361,8 @@ BEGIN:VEVENT
 SUMMARY:🎯 Clefable Super Mega Raid Day
 DTSTART;TZID=Europe/Brussels:20261128T140000
 DTEND;TZID=Europe/Brussels:20261128T170000
-DTSTAMP:20261117T150900Z
-UID:2026-11-28T14:00:00+01:00--7078038018381748134@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-28T14:00:00+01:00-3528672862880355762@leekduck-calendar
 DESCRIPTION:Mega Clefable makes its Pokémon GO debut during Clefable Supe
  r Mega Raid Day on Saturday\, November 28\, 2026\, from 2:00 p.m. to 5:00 
  p.m. local time!\n\nMore info: https://leekduck.com/events/clefable-super-
@@ -379,8 +379,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Twilight Wishes
 DTSTART;TZID=Europe/Brussels:20261124T100000
 DTEND;TZID=Europe/Brussels:20261130T200000
-DTSTAMP:20261117T150900Z
-UID:2026-11-24T10:00:00+01:00-6241137909187014240@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-24T10:00:00+01:00-3597867702973258135@leekduck-calendar
 DESCRIPTION:Celebrate Twilight Wishes with Espeon wearing a sun scarf\, Um
  breon wearing a moon scarf\, and Rockruff! Enjoy increased chances to enco
  unter Shiny Staryu and Shiny Elgyem\, event-themed raids and Field Researc
@@ -405,8 +405,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Cryogonal during Max Monday
 DTSTART;TZID=Europe/Brussels:20261130T060000
 DTEND;TZID=Europe/Brussels:20261130T210000
-DTSTAMP:20261117T150900Z
-UID:2026-11-30T06:00:00+01:00-7374336947708488160@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-30T06:00:00+01:00--8226400654999057847@leekduck-calendar
 DESCRIPTION:Dynamax Cryogonal may appear in Max Battles fromNovember 30\, 
  2026throughDecember 6\, 2026.\n\nThese Dynamax Pokémon may appear in Max 
  Battles throughout this season. Max Battles will be available from 6:00 a.
@@ -431,8 +431,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Twilight Trails
 DTSTART;TZID=Europe/Brussels:20260908T100000
 DTEND;TZID=Europe/Brussels:20261201T100000
-DTSTAMP:20261117T150900Z
-UID:2026-09-08T10:00:00+02:00--5194145563386160554@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-09-08T10:00:00+02:00-2579690135432781021@leekduck-calendar
 DESCRIPTION:Welcome to Pokémon GO: Twilight Trails!\n\nIn Pokémon GO\, S
  easons are periods of time that feature new events\, Pokémon debuts\, and
   surprises that all follow a certain theme. As the Seasons change\, you ma
@@ -458,8 +458,8 @@ BEGIN:VEVENT
 SUMMARY:🎫 GO Pass: November
 DTSTART;TZID=Europe/Brussels:20261103T100000
 DTEND;TZID=Europe/Brussels:20261201T100000
-DTSTAMP:20261117T150900Z
-UID:2026-11-03T10:00:00+01:00-2255132904319222993@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-03T10:00:00+01:00-8904392116789256889@leekduck-calendar
 DESCRIPTION:Earn PokéCoins and encounter Groudon in GO Pass: November!\n\
  nThe GO Pass and GO Pass Deluxe for November will be available from Novemb
  er 3\, 2026 at 10:00 am to December 1\, 2026 at 10:00 am local time.\n\nMo
@@ -483,8 +483,8 @@ SUMMARY:📅 Master League and Mega Catch Cup: Great League Edition | Twil
  ight Trails
 DTSTART;TZID=Europe/Brussels:20261124T220000
 DTEND;TZID=Europe/Brussels:20261201T220000
-DTSTAMP:20261117T150900Z
-UID:2026-11-24T22:00:00+01:00-8743575458443025710@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-24T22:00:00+01:00--7628182899222431624@leekduck-calendar
 DESCRIPTION:The Master League and Mega Catch Cup: Great League Edition wil
  l run from November 24\, 2026\, at 1:00 p.m. to December 1\, 2026\, at 1:0
  0 p.m. PT.\n\nTrainers will also receive 4× Stardust from win rewards (th
@@ -512,8 +512,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Shadow Tornadus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Europe/Brussels:20261116T060000
 DTEND;TZID=Europe/Brussels:20261201T220000
-DTSTAMP:20261117T150900Z
-UID:2026-11-16T06:00:00+01:00--7607771265537588000@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-16T06:00:00+01:00-4135456650201306866@leekduck-calendar
 DESCRIPTION:Shadow Tornadus (Incarnate Forme) will appear in five-star Sha
  dow Raids every weekend from November 16\, 2026 to December 1\, 2026.\n\nM
  ore info: https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-s
@@ -539,8 +539,8 @@ SUMMARY:⚔️ Deoxys (Normal\, Defense\, Attack\, and Speed Formes) in 5-
  star Raid Battles
 DTSTART;TZID=Europe/Brussels:20261125T060000
 DTEND;TZID=Europe/Brussels:20261201T220000
-DTSTAMP:20261117T150900Z
-UID:2026-11-25T06:00:00+01:00--4901744688054454371@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-25T06:00:00+01:00--7160687716862923906@leekduck-calendar
 DESCRIPTION:Deoxys (Normal)\, Deoxys (Defense)\, Deoxys (Attack)\, and Deo
  xys (Speed) will be in five-star raid battles from November 25\, 2026 to D
  ecember 1\, 2026.\n\nRaid bosses change at 6:00 a.m. local time.\n\nThere 
@@ -568,8 +568,8 @@ BEGIN:VEVENT
 SUMMARY:💫 Mega Metagross in Mega Raids
 DTSTART;TZID=Europe/Brussels:20261125T060000
 DTEND;TZID=Europe/Brussels:20261201T220000
-DTSTAMP:20261117T150900Z
-UID:2026-11-25T06:00:00+01:00--1036822487979011763@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-25T06:00:00+01:00-4263498354120257636@leekduck-calendar
 DESCRIPTION:Mega Metagross will be in Mega Raids from November 25\, 2026 a
  t 6 am to December 1\, 2026 at 10 pm local time.\n\nRaid bosses change at 
  6:00 a.m. local time.\n\nMore info: https://leekduck.com/events/mega-metag
@@ -592,8 +592,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Max Battle Day
 DTSTART;TZID=Europe/Brussels:20261205T140000
 DTEND;TZID=Europe/Brussels:20261205T170000
-DTSTAMP:20261117T150900Z
-UID:2026-12-05T14:00:00+01:00-5476133677073512615@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-12-05T14:00:00+01:00--4014280618774693663@leekduck-calendar
 DESCRIPTION:The Max Battle Day event will take place on December 5\, 2026 
  from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leek
  duck.com/events/max-battle-day-december-2026/\n\nData from LeekDuck.com
@@ -609,8 +609,8 @@ BEGIN:VEVENT
 SUMMARY:👥 December Community Day
 DTSTART;TZID=Europe/Brussels:20261212T140000
 DTEND;TZID=Europe/Brussels:20261213T170000
-DTSTAMP:20261117T150900Z
-UID:2026-12-12T14:00:00+01:00--6544610690996247479@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-12-12T14:00:00+01:00--8852618836227944846@leekduck-calendar
 DESCRIPTION:The December Community Day event will take place on December 1
  2 and December 13\, 2026 from 2 pm to 5 pm each day. Stay tuned for more d
  etails.\n\nMore info: https://leekduck.com/events/december-communityday202
@@ -632,8 +632,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Minior Showers: Geminids 2026
 DTSTART;TZID=Europe/Brussels:20261211T170000
 DTEND;TZID=Europe/Brussels:20261216T235900
-DTSTAMP:20261117T150900Z
-UID:2026-12-11T17:00:00+01:00-9202600140455411863@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-12-11T17:00:00+01:00-1961370480804909076@leekduck-calendar
 DESCRIPTION:Explore by starlight during the Geminids meteor shower for a c
  hance to encounter Minior in Pokémon GO!\n\nThis Minior Shower runs fromD
  ecember 11\, 2026 at 5:00 p.m.toDecember 16\, 2026 at 11:59 p.m. local tim
@@ -656,8 +656,8 @@ BEGIN:VEVENT
 SUMMARY:🎯 Raid Day
 DTSTART;TZID=Europe/Brussels:20261219T140000
 DTEND;TZID=Europe/Brussels:20261219T170000
-DTSTAMP:20261117T150900Z
-UID:2026-12-19T14:00:00+01:00--4333836253404297061@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-12-19T14:00:00+01:00--8286978674837311941@leekduck-calendar
 DESCRIPTION:The Raid Day event will take place on December 19\, 2026 from 
  2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck.
  com/events/raid-day-december-2026/\n\nData from LeekDuck.com
@@ -673,8 +673,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Hatch Day
 DTSTART;TZID=Europe/Brussels:20261226T110000
 DTEND;TZID=Europe/Brussels:20261226T170000
-DTSTAMP:20261117T150900Z
-UID:2026-12-26T11:00:00+01:00--6165400982360026350@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-12-26T11:00:00+01:00-325152795869878516@leekduck-calendar
 DESCRIPTION:The Hatch Day event will take place on December 26\, 2026 from
   11 am to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduc
  k.com/events/hatch-day-december-2026/\n\nData from LeekDuck.com
@@ -690,8 +690,8 @@ BEGIN:VEVENT
 SUMMARY:🔍 Pokémon GO and Duolingo Timed Research
 DTSTART;TZID=Europe/Brussels:20261117T020000
 DTEND;TZID=Europe/Brussels:20261231T235900
-DTSTAMP:20261117T150900Z
-UID:2026-11-17T02:00:00+01:00-5177779985482255468@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-11-17T02:00:00+01:00--8096146922805108087@leekduck-calendar
 DESCRIPTION:Pokémon GO and Duolingo are teaming up! Do at least one Duoli
  ngo lesson a day for seven days to earn an offer code for Timed Research i
  n Pokémon GO. Complete the research to earn XP\, Stardust\, and encounter
@@ -719,8 +719,8 @@ BEGIN:VEVENT
 SUMMARY:👥 January Community Day Classic
 DTSTART;TZID=Europe/Brussels:20270102T140000
 DTEND;TZID=Europe/Brussels:20270102T170000
-DTSTAMP:20261117T150900Z
-UID:2027-01-02T14:00:00+01:00-2259830681815316580@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2027-01-02T14:00:00+01:00--6963847381788321953@leekduck-calendar
 DESCRIPTION:The January Community Day Classic event will take place on Jan
  uary 2\, 2027 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info
  : https://leekduck.com/events/january-communitydayclassic2027/\n\nData fro
@@ -737,8 +737,8 @@ BEGIN:VEVENT
 SUMMARY:🎯 Super Mega Raid Day
 DTSTART;TZID=Europe/Brussels:20270109T140000
 DTEND;TZID=Europe/Brussels:20270109T170000
-DTSTAMP:20261117T150900Z
-UID:2027-01-09T14:00:00+01:00--3412009673100426264@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2027-01-09T14:00:00+01:00--1295512198929089158@leekduck-calendar
 DESCRIPTION:The Super Mega Raid Day event will take place on January 9\, 2
  027 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://
  leekduck.com/events/super-mega-raid-day-january-2027/\n\nData from LeekDuc
@@ -755,8 +755,8 @@ BEGIN:VEVENT
 SUMMARY:🔍 adidas × Pokémon Timed Research
 DTSTART;TZID=Europe/Brussels:20260925T100000
 DTEND;TZID=Europe/Brussels:20270115T200000
-DTSTAMP:20261117T150900Z
-UID:2026-09-25T10:00:00+02:00--3469688565784738922@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2026-09-25T10:00:00+02:00--8270324379299730496@leekduck-calendar
 DESCRIPTION:Celebrate the adidas × Pokémon collection with Timed Researc
  h at participating adidas and retail stores worldwide!\n\nResearch is avai
  lable startingSeptember 25\, 2026\, at 10:00 a.m. local time\, throughJanu
@@ -780,8 +780,8 @@ BEGIN:VEVENT
 SUMMARY:👥 January Community Day
 DTSTART;TZID=Europe/Brussels:20270116T140000
 DTEND;TZID=Europe/Brussels:20270116T170000
-DTSTAMP:20261117T150900Z
-UID:2027-01-16T14:00:00+01:00-5814012217754835015@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2027-01-16T14:00:00+01:00--757104726967138520@leekduck-calendar
 DESCRIPTION:The January Community Day event will take place on January 16\
  , 2027 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https
  ://leekduck.com/events/january-communityday2027/\n\nData from LeekDuck.com
@@ -797,8 +797,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Max Battle Day
 DTSTART;TZID=Europe/Brussels:20270123T140000
 DTEND;TZID=Europe/Brussels:20270123T170000
-DTSTAMP:20261117T150900Z
-UID:2027-01-23T14:00:00+01:00-5476133677073512615@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2027-01-23T14:00:00+01:00--4014280618774693663@leekduck-calendar
 DESCRIPTION:The Max Battle Day event will take place on January 23\, 2027 
  from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leek
  duck.com/events/max-battle-day-january-2027/\n\nData from LeekDuck.com
@@ -814,8 +814,8 @@ BEGIN:VEVENT
 SUMMARY:🎯 Super Mega Raid Day
 DTSTART;TZID=Europe/Brussels:20270130T140000
 DTEND;TZID=Europe/Brussels:20270130T170000
-DTSTAMP:20261117T150900Z
-UID:2027-01-30T14:00:00+01:00--3412009673100426264@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2027-01-30T14:00:00+01:00--1295512198929089158@leekduck-calendar
 DESCRIPTION:The Super Mega Raid Day event will take place on January 30\, 
  2027 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https:/
  /leekduck.com/events/super-mega-raid-day-january-30-2027/\n\nData from Lee
@@ -832,8 +832,8 @@ BEGIN:VEVENT
 SUMMARY:👥 February Community Day
 DTSTART;TZID=Europe/Brussels:20270206T140000
 DTEND;TZID=Europe/Brussels:20270206T170000
-DTSTAMP:20261117T150900Z
-UID:2027-02-06T14:00:00+01:00--5587708356386201397@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2027-02-06T14:00:00+01:00-7748839971636595796@leekduck-calendar
 DESCRIPTION:The February Community Day event will take place on February 6
  \, 2027 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: http
  s://leekduck.com/events/february-communityday2027/\n\nData from LeekDuck.c
@@ -850,8 +850,8 @@ BEGIN:VEVENT
 SUMMARY:🎯 Raid Day
 DTSTART;TZID=Europe/Brussels:20270213T140000
 DTEND;TZID=Europe/Brussels:20270213T170000
-DTSTAMP:20261117T150900Z
-UID:2027-02-13T14:00:00+01:00--4333836253404297061@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2027-02-13T14:00:00+01:00--8286978674837311941@leekduck-calendar
 DESCRIPTION:The Raid Day event will take place on February 13\, 2027 from 
  2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck.
  com/events/raid-day-february-2027/\n\nData from LeekDuck.com
@@ -867,8 +867,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Minior Showers: Eta Aquariids 2027
 DTSTART;TZID=Europe/Brussels:20270503T170000
 DTEND;TZID=Europe/Brussels:20270508T235900
-DTSTAMP:20261117T150900Z
-UID:2027-05-03T17:00:00+02:00--1901178227671174230@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2027-05-03T17:00:00+02:00-7819070632586800452@leekduck-calendar
 DESCRIPTION:Explore by starlight during the Eta Aquariids meteor shower fo
  r a chance to encounter Minior in Pokémon GO!\n\nThis Minior Shower runs 
  fromMay 3\, 2027 at 5:00 p.m.toMay 8\, 2027 at 11:59 p.m. local time.\n\nM
@@ -892,8 +892,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Minior Showers: Southern Delta Aquariids 2027
 DTSTART;TZID=Europe/Brussels:20270728T170000
 DTEND;TZID=Europe/Brussels:20270802T235900
-DTSTAMP:20261117T150900Z
-UID:2027-07-28T17:00:00+02:00-8577557746747280170@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2027-07-28T17:00:00+02:00-814371086339954684@leekduck-calendar
 DESCRIPTION:Explore by starlight during the Southern Delta Aquariids meteo
  r shower for a chance to encounter Minior in Pokémon GO!\n\nThis Minior S
  hower runs fromJuly 28\, 2027 at 5:00 p.m.toAugust 2\, 2027 at 11:59 p.m. 
@@ -919,8 +919,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Minior Showers: Perseids 2027
 DTSTART;TZID=Europe/Brussels:20270810T170000
 DTEND;TZID=Europe/Brussels:20270815T235900
-DTSTAMP:20261117T150900Z
-UID:2027-08-10T17:00:00+02:00-1118723590746027731@leekduck-calendar
+DTSTAMP:20261118T144703Z
+UID:2027-08-10T17:00:00+02:00--4802549872424470669@leekduck-calendar
 DESCRIPTION:Explore by starlight during the Perseids meteor shower for a c
  hance to encounter Minior in Pokémon GO!\n\nThis Minior Shower runs fromA
  ugust 10\, 2027 at 5:00 p.m.toAugust 15\, 2027 at 11:59 p.m. local time.\n
