@@ -5,46 +5,11 @@ X-WR-CALDESC:Pokemon GO events from LeekDuck.com
 X-WR-CALNAME:LeekDuck Pokemon GO Events
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:📅 Twitch Drops for 2027 Pokémon Latin America International Ch
- ampionships
-DTSTART;TZID=Europe/Brussels:20261120T130000
-DTEND;TZID=Europe/Brussels:20261123T000000
-DTSTAMP:20261123T164948Z
-UID:2026-11-20T13:00:00+01:00-7551256320905022572@leekduck-calendar
-DESCRIPTION:Get codes for exclusive Timed Research and a Battle Bundle dur
- ing the 2027 Pokémon Latin America International Championships Twitch bro
- adcast.\n\nPsyRhino took home the gold at the 2026 Pokémon GO North Ameri
- ca International Championships with a powerful Shadow Samurott on their te
- am. Watch the 2027 LAIC stream\, and you can get a Samurott inspired by Ps
- yRhino’s NAIC-winning team.\n\nTune in toTwitch.tv/PokemonGOon November 
- 20 and 21\, orTwitch.tv/Pokemonon November 22\, and you’ll earn rewards 
- the longer you watch. Here’s what you can get:\n\nWatch for 30 minutes:U
- nique Timed Research that includes the following.\n\nWatch for 45 minutes:
- An LAIC Battle Bundle that includes the following.\n\nMore info: https://l
- eekduck.com/events/pokemon-latin-america-international-championships-2027-
- timed-research-twitch-drops/\n\nData from LeekDuck.com
-LOCATION:Pokemon GO
-URL:https://leekduck.com/events/pokemon-latin-america-international-champi
- onships-2027-timed-research-twitch-drops/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 📅 Twitch Drops for 2027 Pokémon Latin America In
- ternational Championships starts in 2 hours
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 📅 Twitch Drops for 2027 Pokémon Latin America In
- ternational Championships ends today
-TRIGGER:P2DT20H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Trails
 DTSTART;TZID=Europe/Brussels:20261116T100000
 DTEND;TZID=Europe/Brussels:20261123T200000
-DTSTAMP:20261123T164948Z
-UID:2026-11-16T10:00:00+01:00--7389072744426193465@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-16T10:00:00+01:00-3709530678911160806@leekduck-calendar
 DESCRIPTION:Get ready for a week of Max Battles! Dynamax Pokémon return\,
   Max Particles are surging in the wild\, and Eternamax Eternatus returns t
  o Power Spots during Dynamax Trails.\n\nThe Dynamax Trails event will take
@@ -68,8 +33,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Espurr during Max Monday
 DTSTART;TZID=Europe/Brussels:20261123T060000
 DTEND;TZID=Europe/Brussels:20261123T210000
-DTSTAMP:20261123T164948Z
-UID:2026-11-23T06:00:00+01:00-4787130891120506486@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-23T06:00:00+01:00-2536505777010147659@leekduck-calendar
 DESCRIPTION:Dynamax Espurr may appear in Max Battles fromNovember 23\, 202
  6throughNovember 29\, 2026.\n\nThese Dynamax Pokémon may appear in Max Ba
  ttles throughout this season. Max Battles will be available from 6:00 a.m.
@@ -94,8 +59,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Cresselia and Darkrai in 5-star Raid Battles
 DTSTART;TZID=Europe/Brussels:20261116T060000
 DTEND;TZID=Europe/Brussels:20261124T220000
-DTSTAMP:20261123T164948Z
-UID:2026-11-16T06:00:00+01:00--8108947885232367461@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-16T06:00:00+01:00--5108175349644518059@leekduck-calendar
 DESCRIPTION:Cresselia and Darkrai will be in five-star raid battles from N
  ovember 16\, 2026 to November 24\, 2026.\n\nRaid bosses change at 6:00 a.m
  . local time.\n\nThere will also be a Raid Hour featuring Cresselia and Da
@@ -122,8 +87,8 @@ BEGIN:VEVENT
 SUMMARY:💫 Mega Banette in Mega Raids
 DTSTART;TZID=Europe/Brussels:20261116T060000
 DTEND;TZID=Europe/Brussels:20261124T220000
-DTSTAMP:20261123T164948Z
-UID:2026-11-16T06:00:00+01:00-809907676955692773@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-16T06:00:00+01:00--8447885685081269308@leekduck-calendar
 DESCRIPTION:Mega Banette will be in Mega Raids from November 16\, 2026 at 
  6 am to November 24\, 2026 at 10 pm local time.\n\nRaid bosses change at 6
  :00 a.m. local time.\n\nMore info: https://leekduck.com/events/mega-banett
@@ -142,42 +107,12 @@ TRIGGER:P8DT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📅 Ultra League\, Master League: Mega Edition\, and 2026 GO LAIC
-  Cup | Twilight Trails
-DTSTART;TZID=Europe/Brussels:20261118T220000
-DTEND;TZID=Europe/Brussels:20261125T220000
-DTSTAMP:20261123T164948Z
-UID:2026-11-18T22:00:00+01:00-4658507060153384897@leekduck-calendar
-DESCRIPTION:The Ultra League\, Master League: Mega Edition\, and 2026 GO L
- AIC Cup will run from November 18\, 2026\, at 1:00 p.m. to November 25\, 2
- 026\, at 1:00 p.m. PT.\n\nTrainers will also receive 4× Stardust from win
-  rewards (this does not include end-of-set rewards).\n\nThe following Pok
- émon will not be allowed.\n\nMore info: https://leekduck.com/events/gbl-t
- wilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/\n
- \nData from LeekDuck.com
-LOCATION:Pokemon GO
-URL:https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-le
- ague-mega-edition_2026-go-laic-cup/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 📅 Ultra League\, Master League: Mega Edition\, an
- d 2026 GO LAIC Cup | Twilight Trails starts in 2 hours
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 📅 Ultra League\, Master League: Mega Edition\, an
- d 2026 GO LAIC Cup | Twilight Trails ends today
-TRIGGER:P6DT11H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⏰ Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hou
  r
 DTSTART;TZID=Europe/Brussels:20261125T180000
 DTEND;TZID=Europe/Brussels:20261125T190000
-DTSTAMP:20261123T164948Z
-UID:2026-11-25T18:00:00+01:00-7423340680792535911@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-25T18:00:00+01:00-2867844480545391446@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Deoxys (Normal\, Defense\, Attack\, and 
  Speed Formes) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During 
  this hour there will be an increased number of five-star raids.\n\nMore in
@@ -196,8 +131,8 @@ BEGIN:VEVENT
 SUMMARY:🔦 Noibat Spotlight Hour
 DTSTART;TZID=Europe/Brussels:20261126T180000
 DTEND;TZID=Europe/Brussels:20261126T190000
-DTSTAMP:20261123T164948Z
-UID:2026-11-26T18:00:00+01:00-2433637359676523351@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-26T18:00:00+01:00--7507106450311150960@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time.\n\nNovember 26: The fe
  atured Pokémon isNoibatand the special bonus is2× Catch Candy.\n\nMore i
@@ -215,8 +150,8 @@ BEGIN:VEVENT
 SUMMARY:🎯 Clefable Super Mega Raid Day
 DTSTART;TZID=Europe/Brussels:20261128T140000
 DTEND;TZID=Europe/Brussels:20261128T170000
-DTSTAMP:20261123T164948Z
-UID:2026-11-28T14:00:00+01:00--831103377021475075@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-28T14:00:00+01:00-9092406794380698233@leekduck-calendar
 DESCRIPTION:Mega Clefable makes its Pokémon GO debut during Clefable Supe
  r Mega Raid Day on Saturday\, November 28\, 2026\, from 2:00 p.m. to 5:00 
  p.m. local time!\n\nMore info: https://leekduck.com/events/clefable-super-
@@ -233,8 +168,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Twilight Wishes
 DTSTART;TZID=Europe/Brussels:20261124T100000
 DTEND;TZID=Europe/Brussels:20261130T200000
-DTSTAMP:20261123T164948Z
-UID:2026-11-24T10:00:00+01:00--1195580126070773307@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-24T10:00:00+01:00--7928178792281216042@leekduck-calendar
 DESCRIPTION:Celebrate Twilight Wishes with Espeon wearing a sun scarf\, Um
  breon wearing a moon scarf\, and Rockruff! Enjoy increased chances to enco
  unter Shiny Staryu and Shiny Elgyem\, event-themed raids and Field Researc
@@ -259,8 +194,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Cryogonal during Max Monday
 DTSTART;TZID=Europe/Brussels:20261130T060000
 DTEND;TZID=Europe/Brussels:20261130T210000
-DTSTAMP:20261123T164948Z
-UID:2026-11-30T06:00:00+01:00-1752296823250414518@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-30T06:00:00+01:00-2744160390271941731@leekduck-calendar
 DESCRIPTION:Dynamax Cryogonal may appear in Max Battles fromNovember 30\, 
  2026throughDecember 6\, 2026.\n\nThese Dynamax Pokémon may appear in Max 
  Battles throughout this season. Max Battles will be available from 6:00 a.
@@ -285,8 +220,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Twilight Trails
 DTSTART;TZID=Europe/Brussels:20260908T100000
 DTEND;TZID=Europe/Brussels:20261201T100000
-DTSTAMP:20261123T164948Z
-UID:2026-09-08T10:00:00+02:00--1191239609897176219@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-09-08T10:00:00+02:00-5634258263377637095@leekduck-calendar
 DESCRIPTION:Welcome to Pokémon GO: Twilight Trails!\n\nIn Pokémon GO\, S
  easons are periods of time that feature new events\, Pokémon debuts\, and
   surprises that all follow a certain theme. As the Seasons change\, you ma
@@ -312,8 +247,8 @@ BEGIN:VEVENT
 SUMMARY:🎫 GO Pass: November
 DTSTART;TZID=Europe/Brussels:20261103T100000
 DTEND;TZID=Europe/Brussels:20261201T100000
-DTSTAMP:20261123T164948Z
-UID:2026-11-03T10:00:00+01:00--2950790086496328963@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-03T10:00:00+01:00-5912723450080481435@leekduck-calendar
 DESCRIPTION:Earn PokéCoins and encounter Groudon in GO Pass: November!\n\
  nThe GO Pass and GO Pass Deluxe for November will be available from Novemb
  er 3\, 2026 at 10:00 am to December 1\, 2026 at 10:00 am local time.\n\nMo
@@ -333,41 +268,11 @@ TRIGGER:P27DT23H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📅 Master League and Mega Catch Cup: Great League Edition | Twil
- ight Trails
-DTSTART;TZID=Europe/Brussels:20261124T220000
-DTEND;TZID=Europe/Brussels:20261201T220000
-DTSTAMP:20261123T164948Z
-UID:2026-11-24T22:00:00+01:00-7481967555180152397@leekduck-calendar
-DESCRIPTION:The Master League and Mega Catch Cup: Great League Edition wil
- l run from November 24\, 2026\, at 1:00 p.m. to December 1\, 2026\, at 1:0
- 0 p.m. PT.\n\nTrainers will also receive 4× Stardust from win rewards (th
- is does not include end-of-set rewards).\n\n*Pokémon must be caught betwe
- en September 8\, 2026\, at 1:00 p.m. and December 1\, 2026\, at 1:00 p.m. 
- PST.\n\nMore info: https://leekduck.com/events/gbl-twilight-trails_master-
- league_mega-catch-cup-great-league-edition/\n\nData from LeekDuck.com
-LOCATION:Pokemon GO
-URL:https://leekduck.com/events/gbl-twilight-trails_master-league_mega-cat
- ch-cup-great-league-edition/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 📅 Master League and Mega Catch Cup: Great League 
- Edition | Twilight Trails starts in 2 hours
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 📅 Master League and Mega Catch Cup: Great League 
- Edition | Twilight Trails ends today
-TRIGGER:P6DT11H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📅 Shadow Tornadus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Europe/Brussels:20261116T060000
 DTEND;TZID=Europe/Brussels:20261201T220000
-DTSTAMP:20261123T164948Z
-UID:2026-11-16T06:00:00+01:00-823912334595765399@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-16T06:00:00+01:00-8418664708710636761@leekduck-calendar
 DESCRIPTION:Shadow Tornadus (Incarnate Forme) will appear in five-star Sha
  dow Raids every weekend from November 16\, 2026 to December 1\, 2026.\n\nM
  ore info: https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-s
@@ -393,8 +298,8 @@ SUMMARY:⚔️ Deoxys (Normal\, Defense\, Attack\, and Speed Formes) in 5-
  star Raid Battles
 DTSTART;TZID=Europe/Brussels:20261125T060000
 DTEND;TZID=Europe/Brussels:20261201T220000
-DTSTAMP:20261123T164948Z
-UID:2026-11-25T06:00:00+01:00--3604750535719932142@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-25T06:00:00+01:00-5863384648266309714@leekduck-calendar
 DESCRIPTION:Deoxys (Normal)\, Deoxys (Defense)\, Deoxys (Attack)\, and Deo
  xys (Speed) will be in five-star raid battles from November 25\, 2026 to D
  ecember 1\, 2026.\n\nRaid bosses change at 6:00 a.m. local time.\n\nThere 
@@ -422,8 +327,8 @@ BEGIN:VEVENT
 SUMMARY:💫 Mega Metagross in Mega Raids
 DTSTART;TZID=Europe/Brussels:20261125T060000
 DTEND;TZID=Europe/Brussels:20261201T220000
-DTSTAMP:20261123T164948Z
-UID:2026-11-25T06:00:00+01:00--4572884001438595548@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-25T06:00:00+01:00-6061421501433912222@leekduck-calendar
 DESCRIPTION:Mega Metagross will be in Mega Raids from November 25\, 2026 a
  t 6 am to December 1\, 2026 at 10 pm local time.\n\nRaid bosses change at 
  6:00 a.m. local time.\n\nMore info: https://leekduck.com/events/mega-metag
@@ -446,8 +351,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Max Battle Day
 DTSTART;TZID=Europe/Brussels:20261205T140000
 DTEND;TZID=Europe/Brussels:20261205T170000
-DTSTAMP:20261123T164948Z
-UID:2026-12-05T14:00:00+01:00--7363018797328070331@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-12-05T14:00:00+01:00--8004034247639290226@leekduck-calendar
 DESCRIPTION:The Max Battle Day event will take place on December 5\, 2026 
  from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leek
  duck.com/events/max-battle-day-december-2026/\n\nData from LeekDuck.com
@@ -460,11 +365,43 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📅 Great League: Mega Edition\, Ultra League: Mega Edition\, and
+  Master League: Mega Edition | Daydream Destinations
+DTSTART;TZID=Europe/Brussels:20261201T220000
+DTEND;TZID=Europe/Brussels:20261208T220000
+DTSTAMP:20261124T164210Z
+UID:2026-12-01T22:00:00+01:00-4347400016012540204@leekduck-calendar
+DESCRIPTION:The Great League: Mega Edition\, Ultra League: Mega Edition\, 
+ and Master League: Mega Edition will run from December 1\, 2026\, at 1:00 
+ p.m. to December 8\, 2026\, at 1:00 p.m. PT.\n\nTrainers will also receive
+  4× Stardust from win rewards (this does not include end-of-set rewards).
+ \n\nMore info: https://leekduck.com/events/gbl-daydream-destinations_great
+ -league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-
+ split-1/\n\nData from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-meg
+ a-edition_ultra-league-mega-edition_master-league-mega-edition-split-1/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition\, Ultra League: Mega
+  Edition\, and Master League: Mega Edition | Daydream Destinations starts 
+ in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition\, Ultra League: Mega
+  Edition\, and Master League: Mega Edition | Daydream Destinations ends to
+ day
+TRIGGER:P6DT11H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:👥 December Community Day 2026
 DTSTART;TZID=Europe/Brussels:20261212T140000
 DTEND;TZID=Europe/Brussels:20261213T170000
-DTSTAMP:20261123T164948Z
-UID:2026-12-12T14:00:00+01:00--3378982865326907982@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-12-12T14:00:00+01:00--4074371167413677076@leekduck-calendar
 DESCRIPTION:Pokémon from Community Days in 2026 return for an end of the 
  year celebration!\n\nThe year is nearly behind us\, which means it’s tim
  e to reflect on all the fun everyone had during this year’s Community Da
@@ -488,11 +425,39 @@ TRIGGER:PT19H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📅 Great League: Mega Edition and Mountain Cup: Great League Edi
+ tion | Daydream Destinations
+DTSTART;TZID=Europe/Brussels:20261208T220000
+DTEND;TZID=Europe/Brussels:20261215T220000
+DTSTAMP:20261124T164210Z
+UID:2026-12-08T22:00:00+01:00-9044703185445941507@leekduck-calendar
+DESCRIPTION:The Great League: Mega Edition and Mountain Cup: Great League 
+ Edition will run from December 8\, 2026\, at 1:00 p.m. to December 15\, 20
+ 26\, at 1:00 p.m. PT.\n\nMore info: https://leekduck.com/events/gbl-daydre
+ am-destinations_great-league-mega-edition_mountain-cup-great-league-editio
+ n/\n\nData from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-meg
+ a-edition_mountain-cup-great-league-edition/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition and Mountain Cup: Gr
+ eat League Edition | Daydream Destinations starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition and Mountain Cup: Gr
+ eat League Edition | Daydream Destinations ends today
+TRIGGER:P6DT11H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:📅 Minior Showers: Geminids 2026
 DTSTART;TZID=Europe/Brussels:20261211T170000
 DTEND;TZID=Europe/Brussels:20261216T235900
-DTSTAMP:20261123T164948Z
-UID:2026-12-11T17:00:00+01:00--7623266327868779206@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-12-11T17:00:00+01:00-2955155338350172621@leekduck-calendar
 DESCRIPTION:Explore by starlight during the Geminids meteor shower for a c
  hance to encounter Minior in Pokémon GO!\n\nThis Minior Shower runs fromD
  ecember 11\, 2026 at 5:00 p.m.toDecember 16\, 2026 at 11:59 p.m. local tim
@@ -515,8 +480,8 @@ BEGIN:VEVENT
 SUMMARY:🎯 Raid Day
 DTSTART;TZID=Europe/Brussels:20261219T140000
 DTEND;TZID=Europe/Brussels:20261219T170000
-DTSTAMP:20261123T164948Z
-UID:2026-12-19T14:00:00+01:00--3217906576670792271@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-12-19T14:00:00+01:00--2996703892353449201@leekduck-calendar
 DESCRIPTION:The Raid Day event will take place on December 19\, 2026 from 
  2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck.
  com/events/raid-day-december-2026/\n\nData from LeekDuck.com
@@ -529,11 +494,39 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📅 Ultra League: Mega Edition and Holiday Cup: Great League Edit
+ ion | Daydream Destinations
+DTSTART;TZID=Europe/Brussels:20261215T220000
+DTEND;TZID=Europe/Brussels:20261222T220000
+DTSTAMP:20261124T164210Z
+UID:2026-12-15T22:00:00+01:00--7528910658452836149@leekduck-calendar
+DESCRIPTION:The Ultra League: Mega Edition and Holiday Cup: Great League E
+ dition will run from December 15\, 2026\, at 1:00 p.m. to December 22\, 20
+ 26\, at 1:00 p.m. PT.\n\nMore info: https://leekduck.com/events/gbl-daydre
+ am-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition
+ /\n\nData from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/gbl-daydream-destinations_ultra-league-meg
+ a-edition_holiday-cup-great-league-edition/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Ultra League: Mega Edition and Holiday Cup: Gre
+ at League Edition | Daydream Destinations starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Ultra League: Mega Edition and Holiday Cup: Gre
+ at League Edition | Daydream Destinations ends today
+TRIGGER:P6DT11H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:📅 Hatch Day
 DTSTART;TZID=Europe/Brussels:20261226T110000
 DTEND;TZID=Europe/Brussels:20261226T170000
-DTSTAMP:20261123T164948Z
-UID:2026-12-26T11:00:00+01:00-6848030091843485853@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-12-26T11:00:00+01:00-7631684931966300250@leekduck-calendar
 DESCRIPTION:The Hatch Day event will take place on December 26\, 2026 from
   11 am to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduc
  k.com/events/hatch-day-december-2026/\n\nData from LeekDuck.com
@@ -546,11 +539,40 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📅 Master League: Mega Edition and Holiday Cup: Great League Edi
+ tion | Daydream Destinations
+DTSTART;TZID=Europe/Brussels:20261222T220000
+DTEND;TZID=Europe/Brussels:20261229T220000
+DTSTAMP:20261124T164210Z
+UID:2026-12-22T22:00:00+01:00--4886905019906020647@leekduck-calendar
+DESCRIPTION:The Master League: Mega Edition and Holiday Cup: Great League 
+ Edition will run from December 22\, 2026\, at 1:00 p.m. to December 29\, 2
+ 026\, at 1:00 p.m. PT.\n\nTrainers will also receive 4× Stardust from win
+  rewards (this does not include end-of-set rewards).\n\nMore info: https:/
+ /leekduck.com/events/gbl-daydream-destinations_master-league-mega-edition_
+ holiday-cup-great-league-edition/\n\nData from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/gbl-daydream-destinations_master-league-me
+ ga-edition_holiday-cup-great-league-edition/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Master League: Mega Edition and Holiday Cup: Gr
+ eat League Edition | Daydream Destinations starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Master League: Mega Edition and Holiday Cup: Gr
+ eat League Edition | Daydream Destinations ends today
+TRIGGER:P6DT11H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🔍 Pokémon GO and Duolingo Timed Research
 DTSTART;TZID=Europe/Brussels:20261117T020000
 DTEND;TZID=Europe/Brussels:20261231T235900
-DTSTAMP:20261123T164948Z
-UID:2026-11-17T02:00:00+01:00--2388117654958890519@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-11-17T02:00:00+01:00--2092430134125263011@leekduck-calendar
 DESCRIPTION:Pokémon GO and Duolingo are teaming up! Do at least one Duoli
  ngo lesson a day for seven days to earn an offer code for Timed Research i
  n Pokémon GO. Complete the research to earn XP\, Stardust\, and encounter
@@ -578,8 +600,8 @@ BEGIN:VEVENT
 SUMMARY:👥 January Community Day Classic
 DTSTART;TZID=Europe/Brussels:20270102T140000
 DTEND;TZID=Europe/Brussels:20270102T170000
-DTSTAMP:20261123T164948Z
-UID:2027-01-02T14:00:00+01:00--7159177182344516243@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2027-01-02T14:00:00+01:00--3467517555431773632@leekduck-calendar
 DESCRIPTION:The January Community Day Classic event will take place on Jan
  uary 2\, 2027 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info
  : https://leekduck.com/events/january-communitydayclassic2027/\n\nData fro
@@ -593,11 +615,43 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📅 Great League: Mega Edition\, Ultra League: Mega Edition\, and
+  Master League: Mega Edition | Daydream Destinations
+DTSTART;TZID=Europe/Brussels:20261229T220000
+DTEND;TZID=Europe/Brussels:20270105T220000
+DTSTAMP:20261124T164210Z
+UID:2026-12-29T22:00:00+01:00-4347400016012540204@leekduck-calendar
+DESCRIPTION:The Great League: Mega Edition\, Ultra League: Mega Edition\, 
+ and Master League: Mega Edition will run from December 29\, 2026\, at 1:00
+  p.m. to January 5\, 2027\, at 1:00 p.m. PT.\n\nTrainers will also receive
+  4× Stardust from win rewards (this does not include end-of-set rewards).
+ \n\nMore info: https://leekduck.com/events/gbl-daydream-destinations_great
+ -league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-
+ split-2/\n\nData from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-meg
+ a-edition_ultra-league-mega-edition_master-league-mega-edition-split-2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition\, Ultra League: Mega
+  Edition\, and Master League: Mega Edition | Daydream Destinations starts 
+ in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition\, Ultra League: Mega
+  Edition\, and Master League: Mega Edition | Daydream Destinations ends to
+ day
+TRIGGER:P6DT11H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎯 Super Mega Raid Day
 DTSTART;TZID=Europe/Brussels:20270109T140000
 DTEND;TZID=Europe/Brussels:20270109T170000
-DTSTAMP:20261123T164948Z
-UID:2027-01-09T14:00:00+01:00-6643334557343297581@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2027-01-09T14:00:00+01:00-5932902132553585148@leekduck-calendar
 DESCRIPTION:The Super Mega Raid Day event will take place on January 9\, 2
  027 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://
  leekduck.com/events/super-mega-raid-day-january-2027/\n\nData from LeekDuc
@@ -611,11 +665,39 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📅 Great League: Mega Edition and Fighting Cup: Great League Edi
+ tion | Daydream Destinations
+DTSTART;TZID=Europe/Brussels:20270105T220000
+DTEND;TZID=Europe/Brussels:20270112T220000
+DTSTAMP:20261124T164210Z
+UID:2027-01-05T22:00:00+01:00-1065754165215267834@leekduck-calendar
+DESCRIPTION:The Great League: Mega Edition and Fighting Cup: Great League 
+ Edition will run from January 5\, 2027\, at 1:00 p.m. to January 12\, 2027
+ \, at 1:00 p.m. PT.\n\nMore info: https://leekduck.com/events/gbl-daydream
+ -destinations_great-league-mega-edition_fighting-cup-great-league-edition/
+ \n\nData from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-meg
+ a-edition_fighting-cup-great-league-edition/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition and Fighting Cup: Gr
+ eat League Edition | Daydream Destinations starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition and Fighting Cup: Gr
+ eat League Edition | Daydream Destinations ends today
+TRIGGER:P6DT11H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🔍 adidas × Pokémon Timed Research
 DTSTART;TZID=Europe/Brussels:20260925T100000
 DTEND;TZID=Europe/Brussels:20270115T200000
-DTSTAMP:20261123T164948Z
-UID:2026-09-25T10:00:00+02:00-5664734375459976003@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2026-09-25T10:00:00+02:00--564463114567884829@leekduck-calendar
 DESCRIPTION:Celebrate the adidas × Pokémon collection with Timed Researc
  h at participating adidas and retail stores worldwide!\n\nResearch is avai
  lable startingSeptember 25\, 2026\, at 10:00 a.m. local time\, throughJanu
@@ -639,8 +721,8 @@ BEGIN:VEVENT
 SUMMARY:👥 January Community Day
 DTSTART;TZID=Europe/Brussels:20270116T140000
 DTEND;TZID=Europe/Brussels:20270116T170000
-DTSTAMP:20261123T164948Z
-UID:2027-01-16T14:00:00+01:00--6261110142208089362@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2027-01-16T14:00:00+01:00-2170855497722475202@leekduck-calendar
 DESCRIPTION:The January Community Day event will take place on January 16\
  , 2027 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https
  ://leekduck.com/events/january-communityday2027/\n\nData from LeekDuck.com
@@ -653,11 +735,39 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📅 Ultra League: Mega Edition and Jungle Cup: Great League Editi
+ on | Daydream Destinations
+DTSTART;TZID=Europe/Brussels:20270112T220000
+DTEND;TZID=Europe/Brussels:20270119T220000
+DTSTAMP:20261124T164210Z
+UID:2027-01-12T22:00:00+01:00--3503817449217532518@leekduck-calendar
+DESCRIPTION:The Ultra League: Mega Edition and Jungle Cup: Great League Ed
+ ition will run from January 12\, 2027\, at 1:00 p.m. to January 19\, 2027\
+ , at 1:00 p.m. PT.\n\nMore info: https://leekduck.com/events/gbl-daydream-
+ destinations_ultra-league-mega-edition_jungle-cup-great-league-edition/\n\
+ nData from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/gbl-daydream-destinations_ultra-league-meg
+ a-edition_jungle-cup-great-league-edition/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Ultra League: Mega Edition and Jungle Cup: Grea
+ t League Edition | Daydream Destinations starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Ultra League: Mega Edition and Jungle Cup: Grea
+ t League Edition | Daydream Destinations ends today
+TRIGGER:P6DT11H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⭐ Max Battle Day
 DTSTART;TZID=Europe/Brussels:20270123T140000
 DTEND;TZID=Europe/Brussels:20270123T170000
-DTSTAMP:20261123T164948Z
-UID:2027-01-23T14:00:00+01:00--7363018797328070331@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2027-01-23T14:00:00+01:00--8004034247639290226@leekduck-calendar
 DESCRIPTION:The Max Battle Day event will take place on January 23\, 2027 
  from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leek
  duck.com/events/max-battle-day-january-2027/\n\nData from LeekDuck.com
@@ -670,11 +780,40 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📅 Master League: Mega Edition and Master League | Daydream Dest
+ inations
+DTSTART;TZID=Europe/Brussels:20270119T220000
+DTEND;TZID=Europe/Brussels:20270126T220000
+DTSTAMP:20261124T164210Z
+UID:2027-01-19T22:00:00+01:00-327295374439227501@leekduck-calendar
+DESCRIPTION:The Master League: Mega Edition and Master League will run fro
+ m January 19\, 2027\, at 1:00 p.m. to January 26\, 2027\, at 1:00 p.m. PT.
+ \n\nTrainers will also receive 4× Stardust from win rewards (this does no
+ t include end-of-set rewards).\n\nMore info: https://leekduck.com/events/g
+ bl-daydream-destinations_master-league-mega-edition_master-league/\n\nData
+  from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/gbl-daydream-destinations_master-league-me
+ ga-edition_master-league/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Master League: Mega Edition and Master League |
+  Daydream Destinations starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Master League: Mega Edition and Master League |
+  Daydream Destinations ends today
+TRIGGER:P6DT11H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎯 Super Mega Raid Day
 DTSTART;TZID=Europe/Brussels:20270130T140000
 DTEND;TZID=Europe/Brussels:20270130T170000
-DTSTAMP:20261123T164948Z
-UID:2027-01-30T14:00:00+01:00-6643334557343297581@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2027-01-30T14:00:00+01:00-5932902132553585148@leekduck-calendar
 DESCRIPTION:The Super Mega Raid Day event will take place on January 30\, 
  2027 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https:/
  /leekduck.com/events/super-mega-raid-day-january-30-2027/\n\nData from Lee
@@ -688,11 +827,43 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📅 Great League: Mega Edition\, Ultra League: Mega Edition\, and
+  Master League: Mega Edition | Daydream Destinations
+DTSTART;TZID=Europe/Brussels:20270126T220000
+DTEND;TZID=Europe/Brussels:20270202T220000
+DTSTAMP:20261124T164210Z
+UID:2027-01-26T22:00:00+01:00-4347400016012540204@leekduck-calendar
+DESCRIPTION:The Great League: Mega Edition\, Ultra League: Mega Edition\, 
+ and Master League: Mega Edition will run from January 26\, 2027\, at 1:00 
+ p.m. to February 2\, 2027\, at 1:00 p.m. PT.\n\nTrainers will also receive
+  4× Stardust from win rewards (this does not include end-of-set rewards).
+ \n\nMore info: https://leekduck.com/events/gbl-daydream-destinations_great
+ -league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-
+ split-3/\n\nData from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-meg
+ a-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition\, Ultra League: Mega
+  Edition\, and Master League: Mega Edition | Daydream Destinations starts 
+ in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition\, Ultra League: Mega
+  Edition\, and Master League: Mega Edition | Daydream Destinations ends to
+ day
+TRIGGER:P6DT11H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:👥 February Community Day
 DTSTART;TZID=Europe/Brussels:20270206T140000
 DTEND;TZID=Europe/Brussels:20270206T170000
-DTSTAMP:20261123T164948Z
-UID:2027-02-06T14:00:00+01:00--2769970541733357747@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2027-02-06T14:00:00+01:00-2122665352655434857@leekduck-calendar
 DESCRIPTION:The February Community Day event will take place on February 6
  \, 2027 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: http
  s://leekduck.com/events/february-communityday2027/\n\nData from LeekDuck.c
@@ -706,11 +877,38 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📅 Great League: Mega Edition and Master League | Daydream Desti
+ nations
+DTSTART;TZID=Europe/Brussels:20270202T220000
+DTEND;TZID=Europe/Brussels:20270209T220000
+DTSTAMP:20261124T164210Z
+UID:2027-02-02T22:00:00+01:00--2519127172915354230@leekduck-calendar
+DESCRIPTION:The Great League: Mega Edition and Master League will run from
+  February 2\, 2027\, at 1:00 p.m. to February 9\, 2027\, at 1:00 p.m. PT.\
+ n\nMore info: https://leekduck.com/events/gbl-daydream-destinations_great-
+ league-mega-edition_master-league/\n\nData from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-meg
+ a-edition_master-league/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition and Master League | 
+ Daydream Destinations starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition and Master League | 
+ Daydream Destinations ends today
+TRIGGER:P6DT11H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎯 Raid Day
 DTSTART;TZID=Europe/Brussels:20270213T140000
 DTEND;TZID=Europe/Brussels:20270213T170000
-DTSTAMP:20261123T164948Z
-UID:2027-02-13T14:00:00+01:00--3217906576670792271@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2027-02-13T14:00:00+01:00--2996703892353449201@leekduck-calendar
 DESCRIPTION:The Raid Day event will take place on February 13\, 2027 from 
  2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck.
  com/events/raid-day-february-2027/\n\nData from LeekDuck.com
@@ -723,11 +921,138 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📅 Ultra League: Mega Edition\, Love Cup: Great League Edition\,
+  and 2027 GO EUIC Cup | Daydream Destinations
+DTSTART;TZID=Europe/Brussels:20270209T220000
+DTEND;TZID=Europe/Brussels:20270216T220000
+DTSTAMP:20261124T164210Z
+UID:2027-02-09T22:00:00+01:00--7845295790359416491@leekduck-calendar
+DESCRIPTION:The Ultra League: Mega Edition\, Love Cup: Great League Editio
+ n\, and 2027 GO EUIC Cup will run from February 9\, 2027\, at 1:00 p.m. to
+  February 16\, 2027\, at 1:00 p.m. PT.\n\nThe following Pokémon will not 
+ be allowed.\n\nMore info: https://leekduck.com/events/gbl-daydream-destina
+ tions_ultra-league-mega-edition_love-cup-great-league-edition_2027-go-euic
+ -cup/\n\nData from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/gbl-daydream-destinations_ultra-league-meg
+ a-edition_love-cup-great-league-edition_2027-go-euic-cup/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Ultra League: Mega Edition\, Love Cup: Great Le
+ ague Edition\, and 2027 GO EUIC Cup | Daydream Destinations starts in 2 ho
+ urs
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Ultra League: Mega Edition\, Love Cup: Great Le
+ ague Edition\, and 2027 GO EUIC Cup | Daydream Destinations ends today
+TRIGGER:P6DT11H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Master League: Mega Edition\, Mega Catch Cup: Great League Ed
+ ition\, and 2027 GO EUIC Cup | Daydream Destinations
+DTSTART;TZID=Europe/Brussels:20270216T220000
+DTEND;TZID=Europe/Brussels:20270223T220000
+DTSTAMP:20261124T164210Z
+UID:2027-02-16T22:00:00+01:00--5045512279255899722@leekduck-calendar
+DESCRIPTION:The Master League: Mega Edition\, Mega Catch Cup: Great League
+  Edition\, and 2027 GO EUIC Cup will run from February 16\, 2027\, at 1:00
+  p.m. to February 23\, 2027\, at 1:00 p.m. PT.\n\nTrainers will also recei
+ ve 4× Stardust from win rewards (this does not include end-of-set rewards
+ ).\n\n*Pokémon must be caught between December 1\, 2026\, at 1:00 p.m. an
+ d March 2\, 2027\, at 1:00 p.m. PST.\n\nThe following Pokémon will not be
+  allowed.\n\nMore info: https://leekduck.com/events/gbl-daydream-destinati
+ ons_master-league-mega-edition_mega-catch-cup-great-league-edition_2027-go
+ -euic-cup/\n\nData from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/gbl-daydream-destinations_master-league-me
+ ga-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Master League: Mega Edition\, Mega Catch Cup: G
+ reat League Edition\, and 2027 GO EUIC Cup | Daydream Destinations starts 
+ in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Master League: Mega Edition\, Mega Catch Cup: G
+ reat League Edition\, and 2027 GO EUIC Cup | Daydream Destinations ends to
+ day
+TRIGGER:P6DT11H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Daydream Destinations
+DTSTART;TZID=Europe/Brussels:20261201T100000
+DTEND;TZID=Europe/Brussels:20270301T100000
+DTSTAMP:20261124T164210Z
+UID:2026-12-01T10:00:00+01:00--684097472571300178@leekduck-calendar
+DESCRIPTION:Welcome to Pokémon GO: Daydream Destinations!\n\nIn Pokémon 
+ GO\, Seasons are periods of time that feature new events\, Pokémon debuts
+ \, and surprises that all follow a certain theme. As the Seasons change\, 
+ you may find different Pokémon appearing in your area and hatching from E
+ ggs. Make sure to explore during each in-game Season to collect and train 
+ as many different Pokémon as you can! You’ll also enjoy special bonuses
+  as you do.\n\nMore info: https://leekduck.com/events/season-25-daydream-d
+ estinations/\n\nData from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/season-25-daydream-destinations/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Daydream Destinations starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Daydream Destinations ends today
+TRIGGER:P89DT23H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Great League: Mega Edition\, Ultra League: Mega Edition\, Mas
+ ter League: Mega Edition\, and Mega Catch Cup: Great League Edition | Dayd
+ ream Destinations
+DTSTART;TZID=Europe/Brussels:20270223T220000
+DTEND;TZID=Europe/Brussels:20270302T220000
+DTSTAMP:20261124T164210Z
+UID:2027-02-23T22:00:00+01:00--7533757368504472258@leekduck-calendar
+DESCRIPTION:The Great League: Mega Edition\, Ultra League: Mega Edition\, 
+ Master League: Mega Edition\, and Mega Catch Cup: Great League Edition wil
+ l run from February 23\, 2027\, at 1:00 p.m. to March 2\, 2027\, at 1:00 p
+ .m. PT.\n\nTrainers will also receive 4× Stardust from win rewards (this 
+ does not include end-of-set rewards).\n\n*Pokémon must be caught between 
+ December 1\, 2026\, at 1:00 p.m. and March 2\, 2027\, at 1:00 p.m. PST.\n\
+ nMore info: https://leekduck.com/events/gbl-daydream-destinations_great-le
+ ague-mega-edition_ultra-league-mega-edition_master-league-mega-edition_meg
+ a-catch-cup-great-league-edition/\n\nData from LeekDuck.com
+LOCATION:Pokemon GO
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-meg
+ a-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-
+ cup-great-league-edition/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition\, Ultra League: Mega
+  Edition\, Master League: Mega Edition\, and Mega Catch Cup: Great League 
+ Edition | Daydream Destinations starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: 📅 Great League: Mega Edition\, Ultra League: Mega
+  Edition\, Master League: Mega Edition\, and Mega Catch Cup: Great League 
+ Edition | Daydream Destinations ends today
+TRIGGER:P6DT11H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:📅 Minior Showers: Eta Aquariids 2027
 DTSTART;TZID=Europe/Brussels:20270503T170000
 DTEND;TZID=Europe/Brussels:20270508T235900
-DTSTAMP:20261123T164948Z
-UID:2027-05-03T17:00:00+02:00-2543624542325779912@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2027-05-03T17:00:00+02:00--904371962804261509@leekduck-calendar
 DESCRIPTION:Explore by starlight during the Eta Aquariids meteor shower fo
  r a chance to encounter Minior in Pokémon GO!\n\nThis Minior Shower runs 
  fromMay 3\, 2027 at 5:00 p.m.toMay 8\, 2027 at 11:59 p.m. local time.\n\nM
@@ -751,8 +1076,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Minior Showers: Southern Delta Aquariids 2027
 DTSTART;TZID=Europe/Brussels:20270728T170000
 DTEND;TZID=Europe/Brussels:20270802T235900
-DTSTAMP:20261123T164948Z
-UID:2027-07-28T17:00:00+02:00--4711096007681464761@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2027-07-28T17:00:00+02:00-8078082363956723087@leekduck-calendar
 DESCRIPTION:Explore by starlight during the Southern Delta Aquariids meteo
  r shower for a chance to encounter Minior in Pokémon GO!\n\nThis Minior S
  hower runs fromJuly 28\, 2027 at 5:00 p.m.toAugust 2\, 2027 at 11:59 p.m. 
@@ -778,8 +1103,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Minior Showers: Perseids 2027
 DTSTART;TZID=Europe/Brussels:20270810T170000
 DTEND;TZID=Europe/Brussels:20270815T235900
-DTSTAMP:20261123T164948Z
-UID:2027-08-10T17:00:00+02:00--986866552240417671@leekduck-calendar
+DTSTAMP:20261124T164210Z
+UID:2027-08-10T17:00:00+02:00-9209989273038544856@leekduck-calendar
 DESCRIPTION:Explore by starlight during the Perseids meteor shower for a c
  hance to encounter Minior in Pokémon GO!\n\nThis Minior Shower runs fromA
  ugust 10\, 2027 at 5:00 p.m.toAugust 15\, 2027 at 11:59 p.m. local time.\n
